@@ -1,7 +1,135 @@
 [
   {
+    "id": "advertising-and-promotions-managers",
+    "domain": "business",
+    "contentLanguage": "fr",
+    "title": "Directeurs de la publicité et des promotions",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Planifier, diriger ou coordonner des politiques et des programmes publicitaires ou produire des documents collatéraux, comme des affiches, des concours, des coupons ou des cadeaux, pour créer un intérêt supplémentaire dans l'achat d'un produit ou service pour un ministère, un...",
+    "detailedDescription": "Planifier, diriger ou coordonner des politiques et des programmes publicitaires ou produire des documents collatéraux, comme des affiches, des concours, des coupons ou des dons, afin de créer un intérêt supplémentaire dans l'achat d'un produit ou d'un service pour un ministère, une organisation entière ou sur une base de compte.",
+    "responsibilities": [
+      "Planifiez et préparez du matériel publicitaire et promotionnel pour augmenter les ventes de produits ou de services, en travaillant avec les clients, les représentants de l'entreprise, les services commerciaux et les agences de publicité.",
+      "Inspecter les mises en page et les copies publicitaires, et éditer des scripts, audio, vidéo et tout autre matériel promotionnel pour respecter les spécifications.",
+      "Coordonner les activités des ministères, comme les ventes, les arts graphiques, les médias, les finances et la recherche.",
+      "Élaborer du matériel de communication, des publicités, des présentations ou des initiatives de relations publiques pour faire connaître les produits et les services.",
+      "Élaborer des stratégies de commercialisation exhaustives, en utilisant la connaissance des produits et des technologies, des marchés et des règlements.",
+      "Diriger, motiver et surveiller la mobilisation d'une équipe de campagne pour promouvoir les objectifs de la campagne.",
+      "Préparer des budgets et présenter des estimations des coûts du programme dans le cadre de l'élaboration du plan de campagne.",
+      "Maintenir des portefeuilles de campagnes de marketing, de stratégies et d'autres produits ou idées de marketing.",
+      "Analyser l'efficacité des tactiques ou des canaux de marketing.",
+      "Coordonner avec les membres de l'équipe de marketing, les graphistes et d'autres travailleurs pour élaborer et mettre en oeuvre des programmes de marketing.",
+      "Mener des recherches sur les opinions des consommateurs et les habitudes d'achat, et identifier les publics cibles pour les produits, les services ou les technologies.",
+      "Suivre les budgets, les dépenses et les taux de réponse à chaque campagne, en fonction des objectifs du programme et des normes de l'industrie.",
+      "Coordonner avec les médias la diffusion de la publicité.",
+      "Conférencier les chefs de département ou le personnel pour discuter de sujets tels que les contrats, la sélection des médias publicitaires ou les produits à annoncer.",
+      "Analyser les tendances de la commercialisation ou des ventes pour prévoir les conditions futures.",
+      "Préparer et négocier des contrats de publicité et de vente.",
+      "Surveiller et analyser les résultats de la promotion des ventes pour déterminer la rentabilité des campagnes de promotion.",
+      "Représenter l'entreprise aux réunions des associations professionnelles pour promouvoir les produits.",
+      "Concevoir ou évaluer des méthodes et des procédures de collecte de données, telles que des enquêtes, des sondages d'opinion et des questionnaires.",
+      "Contactez les organismes pour expliquer les services et les installations offerts.",
+      "Lisez les revues commerciales et la littérature professionnelle pour rester au courant des tendances, des innovations et des changements qui influent sur la planification des médias.",
+      "Participer ou participer à des conférences, des événements communautaires et des événements promotionnels liés à des produits ou des technologies.",
+      "Gérer l'équipe de vente, y compris fixer des objectifs, fournir des incitatifs et évaluer le rendement des employés.",
+      "Formuler des plans pour étendre les activités avec les comptes établis et pour effectuer des transactions en tant qu'agent des comptes publicitaires.",
+      "Planifier et exécuter des politiques et des stratégies de publicité pour les organisations.",
+      "Identifier et établir des contacts pour les campagnes promotionnelles et les programmes de l'industrie qui répondent aux objectifs des acheteurs, comme les concessionnaires, les distributeurs ou les consommateurs.",
+      "Former et diriger les travailleurs engagés dans l'élaboration et la production de publicités.",
+      "Fournir un soutien en matière de présentation et de démonstration de produits lors de l'introduction de nouveaux produits et services au personnel et aux clients sur le terrain.",
+      "Rassembler et communiquer avec une coalition forte et diversifiée d'organisations ou de personnalités publiques, en assurant leur coopération, leur soutien et leur action, afin de poursuivre les objectifs de la campagne.",
+      "Diriger et coordonner la recherche et le développement de produits."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "high_school",
+        "bachelors",
+        "other"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "office",
+      "team",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 63,
+        "importance": 0.63
+      },
+      "creative": {
+        "target": 83,
+        "importance": 0.83
+      },
+      "communication": {
+        "target": 92,
+        "importance": 0.92
+      },
+      "social": {
+        "target": 62,
+        "importance": 0.62
+      },
+      "leadership": {
+        "target": 64,
+        "importance": 0.64
+      },
+      "practical": {
+        "target": 8,
+        "importance": 0.1
+      },
+      "adaptability": {
+        "target": 67,
+        "importance": 0.67
+      },
+      "technology": {
+        "target": 45,
+        "importance": 0.45
+      },
+      "motivation": {
+        "target": 65,
+        "importance": 0.65
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 63300,
+        "midLevel": 133660,
+        "seniorLevel": 286240,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "11-2011",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes11-2011.htm"
+    }
+  },
+  {
     "id": "marketing-manager",
     "domain": "business",
+    "contentLanguage": "en",
     "title": "careers.marketing-manager.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -84,17 +212,9 @@
         "target": 90,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 68,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -111,11 +231,373 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "11-2021",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes11-2021.htm"
+    }
+  },
+  {
+    "id": "art-directors",
+    "domain": "creative",
+    "contentLanguage": "fr",
+    "title": "Directeurs artistiques",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Formuler des concepts de conception et des approches de présentation pour les productions visuelles et les médias, comme la presse écrite, la radiodiffusion, la vidéo et le film.",
+    "detailedDescription": "Formuler des concepts de conception et des approches de présentation pour les productions visuelles et les médias, comme la presse écrite, la radiodiffusion, la vidéo et le film. Travailleurs directs engagés dans l'art ou la mise en page.",
+    "responsibilities": [
+      "Travailler avec les directeurs créatifs pour développer des solutions de conception.",
+      "Présenter la présentation finale aux clients pour approbation.",
+      "Gérer ses propres comptes et projets, en respectant les exigences budgétaires et de programmation.",
+      "Conférencier avec des chefs de département de création, d'art, de rédaction ou de production pour discuter des besoins des clients et des concepts de présentation et coordonner les activités créatives.",
+      "Communiquer avec les clients pour déterminer les objectifs, le budget, l'information de base et les approches, les styles et les techniques de présentation.",
+      "Formuler la conception de la mise en page ou l'approche de présentation de base et spécifier les détails matériels, tels que le style et la taille du type, les photographies, les graphiques, l'animation, la vidéo et le son.",
+      "Examiner et approuver les documents d'art, les copies et les épreuves des copies imprimées élaborées par les fonctionnaires.",
+      "Créer des illustrations personnalisées ou d'autres éléments graphiques.",
+      "Assister à des séances de photos et d'impression pour s'assurer que les produits nécessaires sont obtenus.",
+      "Examiner les documents illustratifs pour déterminer s'ils sont conformes aux normes et aux spécifications.",
+      "Embaucher, former et diriger le personnel qui développe des concepts de conception dans des plans d'art ou qui prépare des plans pour l'impression.",
+      "Étudier les tendances actuelles et les nouvelles technologies, comme les techniques de production d'impression, les logiciels et les tendances en matière de conception.",
+      "Marquer, coller et compléter les mises en page et écrire des instructions de typographie pour préparer les matériaux pour la composition ou l'impression.",
+      "Conceptualisez et aidez à concevoir des interfaces pour les jeux, produits et appareils multimédias.",
+      "Préparer des storyboards détaillés montrant la séquence et le moment de développement de l'histoire pour la production télévisuelle.",
+      "Négocier avec les imprimeurs et les estimateurs pour déterminer quels services seront offerts."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "high_school",
+        "bachelors",
+        "masters"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "team",
+      "office",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 61,
+        "importance": 0.61
+      },
+      "creative": {
+        "target": 99,
+        "importance": 0.99
+      },
+      "communication": {
+        "target": 85,
+        "importance": 0.85
+      },
+      "social": {
+        "target": 58,
+        "importance": 0.57
+      },
+      "leadership": {
+        "target": 51,
+        "importance": 0.51
+      },
+      "practical": {
+        "target": 12,
+        "importance": 0.12
+      },
+      "adaptability": {
+        "target": 84,
+        "importance": 0.84
+      },
+      "technology": {
+        "target": 48,
+        "importance": 0.48
+      },
+      "motivation": {
+        "target": 62,
+        "importance": 0.62
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 64900,
+        "midLevel": 114850,
+        "seniorLevel": 213050,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "27-1011",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes27-1011.htm"
+    }
+  },
+  {
+    "id": "preschool-teachers-except-special-education",
+    "domain": "education",
+    "contentLanguage": "fr",
+    "title": "carrière.préscolaire-enseignants-sauf-éducation spéciale.titre",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "carrières.préscolaire-enseignants-sauf-spécial-éducation.short description",
+    "detailedDescription": "carrière.préscolaire-enseignants-sauf-spécial-éducation.detailed description",
+    "responsibilities": [
+      "Enseigner les compétences de base, comme la couleur, la forme, la reconnaissance du nombre et de la lettre, l'hygiène personnelle et les compétences sociales.",
+      "Établir et appliquer des règles de comportement et des procédures pour maintenir l'ordre.",
+      "Adapter les méthodes d'enseignement et le matériel didactique pour répondre aux besoins et aux intérêts variés des élèves.",
+      "Fournir une variété de matériel et de ressources aux enfants pour explorer, manipuler et utiliser, tant dans les activités d'apprentissage que dans le jeu imaginatif.",
+      "Servir les repas et les collations conformément aux directives nutritionnelles.",
+      "S'occuper des besoins fondamentaux des enfants en les nourrissant, en les habillant et en changeant leurs couches.",
+      "Rencontrez les parents et les tuteurs pour discuter des progrès et des besoins de leurs enfants, déterminer leurs priorités pour leurs enfants et suggérer des moyens de promouvoir l'apprentissage et le développement.",
+      "Organiser et diriger des activités visant à promouvoir le développement physique, mental et social, comme les jeux, les arts et l'artisanat, la musique, la narration et les excursions sur le terrain.",
+      "Identifier les enfants qui présentent des signes de problèmes affectifs, de développement ou de santé et en discuter avec les superviseurs, les parents ou les tuteurs et les spécialistes du développement de l'enfant.",
+      "Tenir des dossiers d'élèves exacts et complets conformément aux lois, aux politiques de district et aux règlements administratifs.",
+      "Assimiler les enfants arrivant à l'école en les accueillant, en les aidant à enlever les vêtements de dessus et en choisissant des activités qui les intéressent.",
+      "Observer et évaluer la performance, le comportement, le développement social et la santé physique des enfants.",
+      "Préparer du matériel et des salles de classe pour les activités de classe.",
+      "Lire des livres à des cours entiers ou à de petits groupes.",
+      "Établir des objectifs clairs pour tous les enseignements, toutes les unités et tous les projets et communiquer ces objectifs aux enfants.",
+      "Disposer d'espaces intérieurs et extérieurs pour faciliter le jeu créatif, les activités motrices et la sécurité.",
+      "Apprendre les bonnes habitudes alimentaires et l'hygiène personnelle.",
+      "Démontrer des activités aux enfants.",
+      "Planifier et mener des activités pour un programme équilibré d'instruction, de démonstration et de temps de travail qui donne aux élèves la possibilité d'observer, de questionner et d'enquêter.",
+      "Appliquer toutes les politiques et règles administratives régissant les étudiants.",
+      "Préparer et mettre en oeuvre des programmes de rattrapage pour les étudiants qui ont besoin d'aide supplémentaire.",
+      "Conférencier avec d'autres membres du personnel pour planifier et programmer des leçons favorisant l'apprentissage, conformément aux programmes approuvés.",
+      "Assister à des réunions professionnelles, à des conférences éducatives et à des ateliers de formation des enseignants pour maintenir et améliorer leurs compétences professionnelles.",
+      "Organisez et marquez le matériel et exposez le travail des élèves d'une manière adaptée à leur âge et à leurs compétences perceptives.",
+      "Préparer des rapports sur les étudiants et les activités requises par l'administration.",
+      "Collaborer avec d'autres enseignants et administrateurs au développement, à l'évaluation et à la révision des programmes préscolaires.",
+      "Planifier et superviser des projets de classe, des excursions sur le terrain, des visites d'invités ou d'autres activités expérientielles et guider les étudiants dans l'apprentissage de ces activités.",
+      "Rencontrer d'autres professionnels pour discuter des besoins et des progrès des étudiants.",
+      "Sélectionnez, entreposez, commandez, distribuez et stockez l'équipement, le matériel et les fournitures de classe.",
+      "Supervisez, évaluez et planifiez les affectations d'assistants enseignants et de bénévoles.",
+      "Administrer des tests pour aider à déterminer les niveaux de développement, les besoins et le potentiel des enfants.",
+      "Assister aux réunions du personnel et siéger aux comités au besoin.",
+      "Fournir aux étudiants handicapés des appareils d'assistance, des technologies de soutien et de l'aide pour accéder aux installations, comme les toilettes.",
+      "Exécuter des tâches administratives, comme la surveillance des salles et des cafétérias et le chargement et le déchargement des autobus."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "high_school",
+        "bachelors",
+        "other"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "office",
+      "team",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 42,
+        "importance": 0.42
+      },
+      "creative": {
+        "target": 67,
+        "importance": 0.67
+      },
+      "communication": {
+        "target": 63,
+        "importance": 0.63
+      },
+      "social": {
+        "target": 79,
+        "importance": 0.79
+      },
+      "leadership": {
+        "target": 47,
+        "importance": 0.47
+      },
+      "practical": {
+        "target": 10,
+        "importance": 0.1
+      },
+      "adaptability": {
+        "target": 47,
+        "importance": 0.47
+      },
+      "technology": {
+        "target": 18,
+        "importance": 0.18
+      },
+      "motivation": {
+        "target": 48,
+        "importance": 0.48
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "intermediate"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 28990,
+        "midLevel": 38140,
+        "seniorLevel": 61390,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "25-2011",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes25-2011.htm"
+    }
+  },
+  {
+    "id": "aerospace-engineers",
+    "domain": "engineering",
+    "contentLanguage": "fr",
+    "title": "Ingénieurs aérospatials",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Exécuter des tâches d'ingénierie dans la conception, la construction et l'essai d'aéronefs, de missiles et d'engins spatiaux.",
+    "detailedDescription": "Exécuter des tâches d'ingénierie dans la conception, la construction et l'essai d'aéronefs, de missiles et d'engins spatiaux. Peut mener des recherches fondamentales et appliquées pour évaluer la capacité d'adaptation des matériaux et de l'équipement à la conception et à la fabrication des aéronefs. Peut recommander des améliorations dans l'équipement et les techniques d'essai.",
+    "responsibilities": [
+      "Formuler la conception conceptuelle de produits ou de systèmes aéronautiques ou aérospatiaux pour satisfaire aux exigences du client ou se conformer aux règlements environnementaux.",
+      "Évaluer les données ou la conception des produits à partir d'inspections ou de rapports en vue de leur conformité aux principes d'ingénierie, aux exigences des clients, aux règlements environnementaux ou aux normes de qualité.",
+      "Diriger ou coordonner les activités du personnel technique ou technique chargé de concevoir, fabriquer, modifier ou tester des aéronefs ou des produits aérospatiaux.",
+      "Planifier ou effectuer des essais expérimentaux, environnementaux, opérationnels ou de contrainte sur des modèles ou des prototypes de systèmes ou d'équipements aéronautiques ou aérospatiaux.",
+      "Diagnostiquer les problèmes de performance en examinant les rapports ou la documentation des clients ou des ingénieurs de terrain ou en inspectant les produits défectueux ou endommagés.",
+      "Formuler des modèles mathématiques ou d'autres méthodes d'analyse informatique pour développer, évaluer ou modifier la conception, selon les exigences de l'ingénierie client.",
+      "Écrire des rapports techniques ou d'autres documents, tels que des manuels ou des bulletins, à l'intention du personnel d'ingénierie, de la direction ou des clients.",
+      "Tenir des registres des rapports sur le rendement pour référence future.",
+      "Analyser les demandes de projet, les propositions ou les données techniques afin de déterminer la faisabilité, la productivité, le coût ou le temps de production des produits aérospatiaux ou aéronautiques.",
+      "Planifier ou coordonner l'enquête et la résolution des rapports des clients sur les problèmes techniques avec les aéronefs ou les véhicules aérospatiaux.",
+      "Élaborer des critères de conception pour les produits ou systèmes aéronautiques ou aérospatiaux, y compris les méthodes d'essai, les coûts de production, les normes de qualité, les normes environnementales ou les dates d'achèvement.",
+      "Programmes directs de recherche et développement en aérospatiale.",
+      "Évaluer et approuver la sélection des fournisseurs en étudiant les performances passées ou les nouvelles annonces.",
+      "Recherche de nouveaux matériaux pour déterminer la qualité ou la conformité aux normes environnementales.",
+      "Développer et tester des systèmes autonomes pour les véhicules aérospatials sans équipage."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "vocational",
+        "bachelors",
+        "masters"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "team",
+      "office",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 84,
+        "importance": 0.84
+      },
+      "creative": {
+        "target": 79,
+        "importance": 0.79
+      },
+      "communication": {
+        "target": 85,
+        "importance": 0.85
+      },
+      "social": {
+        "target": 46,
+        "importance": 0.46
+      },
+      "leadership": {
+        "target": 45,
+        "importance": 0.45
+      },
+      "practical": {
+        "target": 18,
+        "importance": 0.18
+      },
+      "adaptability": {
+        "target": 79,
+        "importance": 0.79
+      },
+      "technology": {
+        "target": 54,
+        "importance": 0.54
+      },
+      "motivation": {
+        "target": 53,
+        "importance": 0.53
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 86700,
+        "midLevel": 134960,
+        "seniorLevel": 205890,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "17-2011",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes17-2011.htm"
+    }
   },
   {
     "id": "medical-doctor",
     "domain": "healthcare",
+    "contentLanguage": "en",
     "title": "careers.medical-doctor.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -188,17 +670,9 @@
         "target": 97,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 63,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -215,35 +689,147 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "29-1215",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes29-1215.htm"
+    }
   },
   {
-    "id": "actuaries",
-    "domain": "technology",
-    "title": "careers.actuaries.title",
+    "id": "animal-scientists",
+    "domain": "science",
+    "contentLanguage": "fr",
+    "title": "Scientifiques animaux",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.actuaries.short_description",
-    "detailedDescription": "careers.actuaries.detailed_description",
+    "shortDescription": "Mener des recherches sur la génétique, la nutrition, la reproduction, la croissance et le développement des animaux d'élevage domestiques.",
+    "detailedDescription": "Mener des recherches sur la génétique, la nutrition, la reproduction, la croissance et le développement des animaux d'élevage domestiques.",
     "responsibilities": [
-      "Analyze data to determine premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.",
-      "Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",
-      "Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",
-      "Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",
-      "Provide advice to clients on a contract basis, working as a consultant.",
-      "Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",
-      "Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",
-      "Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.",
-      "Determine policy contract provisions for each type of insurance.",
-      "Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.",
-      "Negotiate terms and conditions of reinsurance with other companies.",
-      "Testify before public agencies on proposed legislation affecting businesses.",
-      "Explain changes in contract provisions to customers.",
-      "Manage credit and help price corporate security offerings.",
-      "Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.",
-      "Develop and maintain projection models."
+      "Étudier les besoins nutritionnels des animaux et les valeurs nutritives des matières premières pour aliments des animaux.",
+      "Rédiger ou communiquer oralement les résultats de la recherche à la communauté scientifique, aux producteurs et au public.",
+      "Élaborer de meilleures pratiques en matière d'alimentation, de logement, d'assainissement ou de lutte contre les parasites et les maladies des animaux.",
+      "Conseiller les producteurs sur l'amélioration des produits et des techniques susceptibles d'accroître leurs efforts de production animale.",
+      "Mener des recherches sur l'alimentation, l'élevage ou la gestion des animaux pour améliorer les produits ou les procédés.",
+      "Étudier les effets des pratiques de gestion, des méthodes de transformation, des aliments pour animaux ou des conditions environnementales sur la qualité et la quantité des produits animaux, tels que les œufs et le lait.",
+      "Recherche et contrôle des pratiques de sélection et de reproduction des animaux pour accroître l'efficacité de la production et améliorer la qualité des animaux.",
+      "Déterminer la composition génétique des populations animales et l'héritabilité des caractères en utilisant les principes de la génétique.",
+      "Animaux de race croisée ayant des souches existantes ou des souches croisées pour obtenir de nouvelles combinaisons de caractéristiques souhaitables."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "bachelors",
+        "masters",
+        "doctorate"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "team",
+      "office",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 86,
+        "importance": 0.86
+      },
+      "creative": {
+        "target": 81,
+        "importance": 0.81
+      },
+      "communication": {
+        "target": 75,
+        "importance": 0.75
+      },
+      "social": {
+        "target": 60,
+        "importance": 0.6
+      },
+      "leadership": {
+        "target": 61,
+        "importance": 0.61
+      },
+      "practical": {
+        "target": 22,
+        "importance": 0.22
+      },
+      "adaptability": {
+        "target": 82,
+        "importance": 0.82
+      },
+      "technology": {
+        "target": 47,
+        "importance": 0.47
+      },
+      "motivation": {
+        "target": 52,
+        "importance": 0.52
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 44350,
+        "midLevel": 68940,
+        "seniorLevel": 166000,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "19-1011",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes19-1011.htm"
+    }
+  },
+  {
+    "id": "actuaries",
+    "domain": "technology",
+    "contentLanguage": "fr",
+    "title": "actuaires",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Analyser les données statistiques, telles que les taux de mortalité, d'accident, de maladie, d'invalidité et de retraite, et établir des tableaux de probabilité pour prévoir les risques et les obligations liés au paiement des prestations futures.",
+    "detailedDescription": "Analyser les données statistiques, telles que les taux de mortalité, d'accident, de maladie, d'invalidité et de retraite, et établir des tableaux de probabilité pour prévoir les risques et les obligations liés au paiement des prestations futures. Peut vérifier les taux d'assurance requis et les réserves de trésorerie nécessaires pour assurer le paiement des prestations futures.",
+    "responsibilities": [
+      "Analyser les données pour déterminer les taux de cotisation requis et les réserves de trésorerie et les passifs nécessaires pour assurer le paiement des prestations futures.",
+      "Analyser les données statistiques pour estimer les taux de mortalité, d'accident, de maladie, d'invalidité et de retraite.",
+      "Concevoir, examiner et aider à administrer les régimes d'assurance, de rente et de retraite, déterminer la solidité financière et calculer les primes.",
+      "Collaborer avec les programmeurs, les assureurs, les comptables, les experts en sinistres et la haute direction pour aider les entreprises à élaborer des plans pour de nouveaux secteurs d'activité ou des améliorations aux activités existantes.",
+      "Fournir des conseils aux clients sur une base contractuelle, en travaillant comme consultant.",
+      "Déterminer ou aider à déterminer la politique de l'entreprise et expliquer des questions techniques complexes aux dirigeants d'entreprise, aux fonctionnaires, aux actionnaires, aux souscripteurs ou au public.",
+      "Établir des tableaux de probabilité pour les événements comme les incendies, les catastrophes naturelles et le chômage, à partir de l'analyse des données statistiques et d'autres informations pertinentes.",
+      "Déterminer une base équitable pour la répartition des gains excédentaires en vertu des contrats d'assurance et de rente dans les sociétés mutuelles.",
+      "Déterminer les dispositions contractuelles pour chaque type d'assurance.",
+      "Fournir une expertise pour aider les institutions financières à gérer les risques et à maximiser les rendements associés aux produits d'investissement ou aux offres de crédit.",
+      "Négocier les conditions de la réassurance avec d'autres sociétés.",
+      "Tester devant les organismes publics les projets de loi touchant les entreprises.",
+      "Expliquer aux clients les modifications apportées aux dispositions contractuelles.",
+      "Gérer le crédit et aider à évaluer les offres de sécurité d'entreprise.",
+      "Témoignez devant le tribunal en tant que témoin expert ou fournissez des preuves juridiques sur des questions telles que la valeur des gains potentiels à vie d'une personne handicapée ou tuée dans un accident.",
+      "Élaborer et maintenir des modèles de projection."
     ],
     "skills": [
       "Esprit critique",
@@ -296,17 +882,9 @@
         "target": 82,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 32,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -323,37 +901,43 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-2011",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-2011.htm"
+    }
   },
   {
     "id": "blockchain-engineers",
     "domain": "technology",
-    "title": "careers.blockchain-engineers.title",
+    "contentLanguage": "fr",
+    "title": "Ingénieurs Blockchain",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.blockchain-engineers.short_description",
-    "detailedDescription": "careers.blockchain-engineers.detailed_description",
+    "shortDescription": "Maintenir et soutenir des réseaux distribués et décentralisés basés sur la blockchain ou des applications de block-chain telles que l'échange de cryptomonnaie, le traitement des paiements, le partage de documents et le vote numérique.",
+    "detailedDescription": "Maintenir et soutenir des réseaux distribués et décentralisés basés sur la blockchain ou des applications de block-chain telles que l'échange de cryptomonnaie, le traitement des paiements, le partage de documents et le vote numérique. Concevoir et déployer des modèles de conception et des solutions sécurisés de la chaîne de blocs sur des réseaux géographiquement répartis à l'aide de technologies avancées. Peut aider à la configuration de l'infrastructure et aux essais pour la transparence et la sécurité des applications.",
     "responsibilities": [
-      "Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",
-      "Implement catastrophic failure handlers to identify security breaches and prevent serious damage.",
-      "Test the security and performance of blockchain infrastructures.",
-      "Assess blockchain threats, such as untested code and unprotected keys.",
-      "Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",
-      "Design and verify cryptographic protocols to protect private information.",
-      "Evaluate blockchain processes or risks based on security assessments or control matrix reviews.",
-      "Run infrastructure tests to examine the behavior of large peer-to-peer networks.",
-      "Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",
-      "Automate the deployment of software updates over geographically distributed network nodes.",
-      "Develop a maintainable code base using object-oriented design principles, practices, or patterns.",
-      "Update client and server applications responsible for integration and business logic.",
-      "Design and implement data repositories to integrate data.",
-      "Determine specifications for, or implement, logging.",
-      "Evaluate new blockchain technologies and vendor products.",
-      "Design and develop blockchain technologies for industries such as finance and music.",
-      "Design and implement dashboard and data visualizations to meet customer reporting needs.",
-      "Develop software tools, such as application programming interfaces (APIs), to integrate applications."
+      "Discutez et planifiez les systèmes avec des architectes de solutions, des ingénieurs de systèmes ou des experts en cybersécurité pour répondre aux besoins des clients.",
+      "Mettre en place des préposés aux défaillances catastrophiques pour déceler les atteintes à la sécurité et prévenir les dommages graves.",
+      "Testez la sécurité et les performances des infrastructures blockchain.",
+      "Évaluer les menaces de blockchain, comme le code non testé et les clés non protégées.",
+      "Concevoir et déployer des modèles de conception de blockchain pour rendre les transactions sécurisées, transparentes et immuables.",
+      "Concevoir et vérifier des protocoles cryptographiques pour protéger l'information privée.",
+      "Évaluer les processus ou les risques de la chaîne de blocs en fonction des évaluations de sécurité ou des examens des matrices de contrôle.",
+      "Exécuter des tests d'infrastructure pour examiner le comportement des grands réseaux de pairs à pairs.",
+      "Discutez des besoins en données avec des ingénieurs, des gestionnaires de produits ou des spécialistes des données afin d'identifier les exigences de la chaîne de blocs.",
+      "Automatisez le déploiement de mises à jour logicielles sur des nœuds réseau géographiquement répartis.",
+      "Élaborer une base de codes à jour en utilisant des principes, des pratiques ou des modèles de conception orientés objet.",
+      "Mettre à jour les applications client et serveur responsables de l'intégration et de la logique opérationnelle.",
+      "Concevoir et mettre en œuvre des dépôts de données pour intégrer les données.",
+      "Déterminer les spécifications pour l'enregistrement ou mettre en œuvre.",
+      "Évaluer les nouvelles technologies de blockchain et les produits des fournisseurs.",
+      "Concevoir et développer des technologies de blockchain pour des industries comme la finance et la musique.",
+      "Concevoir et mettre en oeuvre des visualisations de tableaux de bord et de données pour répondre aux besoins en matière de rapports aux clients.",
+      "Élaborer des outils logiciels, comme les interfaces de programmation d'applications (API), pour intégrer les applications."
     ],
     "skills": [
       "Esprit critique",
@@ -407,17 +991,9 @@
         "target": 87,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 61,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -434,36 +1010,42 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "business-intelligence-analyst",
     "domain": "technology",
-    "title": "careers.business-intelligence-analyst.title",
+    "contentLanguage": "fr",
+    "title": "Analystes de renseignements commerciaux",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.business-intelligence-analyst.short_description",
-    "detailedDescription": "careers.business-intelligence-analyst.detailed_description",
+    "shortDescription": "Produire des renseignements financiers et commerciaux en interrogeant les dépôts de données et en produisant des rapports périodiques.",
+    "detailedDescription": "Produire des renseignements financiers et commerciaux en interrogeant les dépôts de données et en produisant des rapports périodiques. Concevoir des méthodes pour identifier les modèles de données et les tendances dans les sources d'information disponibles.",
     "responsibilities": [
-      "Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",
-      "Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",
-      "Manage timely flow of business intelligence information to users.",
-      "Provide technical support for existing reports, dashboards, or other tools.",
-      "Identify and analyze industry or geographic trends with business strategy implications.",
-      "Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",
-      "Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",
-      "Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",
-      "Disseminate information regarding tools, reports, or metadata enhancements.",
-      "Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.",
-      "Synthesize current business intelligence or trend data to support recommendations for action.",
-      "Analyze competitive market strategies through analysis of related product, market, or share trends.",
-      "Identify or monitor current and potential customers, using business intelligence tools.",
-      "Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",
-      "Maintain library of model documents, templates, or other reusable knowledge assets.",
-      "Create or review technical design documentation to ensure the accurate development of reporting solutions.",
-      "Analyze technology trends to identify markets for future product development or to improve sales of existing products."
+      "Générer des rapports standard ou personnalisés résumant les données commerciales, financières ou économiques pour examen par les cadres, les gestionnaires, les clients et les autres intervenants.",
+      "Tenir à jour ou mettre à jour les outils de renseignements commerciaux, les bases de données, les tableaux de bord, les systèmes ou les méthodes.",
+      "Gérer la circulation en temps opportun des renseignements commerciaux aux utilisateurs.",
+      "Fournir un soutien technique pour les rapports, tableaux de bord ou autres outils existants.",
+      "Déterminer et analyser les tendances de l'industrie ou de la région avec les répercussions de la stratégie commerciale.",
+      "Spécifications des documents pour les rapports sur les renseignements commerciaux ou les technologies de l'information, les tableaux de bord ou d'autres extrants.",
+      "Créer des outils ou des systèmes de renseignements commerciaux, y compris la conception de bases de données, de feuilles de calcul ou de extrants connexes.",
+      "Recueillir des données de renseignements commerciaux à partir des rapports de l'industrie, des renseignements publics, des rapports sur le terrain ou des sources achetées.",
+      "Diffuser l'information concernant les outils, les rapports ou les améliorations des métadonnées.",
+      "Effectuer ou coordonner des tests pour s'assurer que les renseignements sont conformes aux besoins définis.",
+      "Synthétiser les renseignements commerciaux actuels ou les données sur les tendances pour appuyer les recommandations d'action.",
+      "Analyser les stratégies de marché concurrentielles en analysant les tendances des produits, des marchés ou des parts de marché connexes.",
+      "Identifier ou surveiller les clients actuels et potentiels en utilisant des outils de renseignements commerciaux.",
+      "Communiquer avec les clients, les concurrents, les fournisseurs, les organisations professionnelles ou d'autres pour se tenir au courant des tendances de l'industrie ou des affaires.",
+      "Tenir une bibliothèque de documents modèles, de modèles ou d'autres biens de connaissances réutilisables.",
+      "Créer ou revoir la documentation de conception technique pour assurer le développement précis des solutions de rapport.",
+      "Analyser les tendances technologiques afin d'identifier les marchés pour le développement futur de produits ou pour améliorer les ventes de produits existants."
     ],
     "skills": [
       "Esprit critique",
@@ -517,17 +1099,9 @@
         "target": 76,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 46,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -544,34 +1118,40 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-2051",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-2051.htm"
+    }
   },
   {
     "id": "computer-and-information-research-scientists",
     "domain": "technology",
-    "title": "careers.computer-and-information-research-scientists.title",
+    "contentLanguage": "fr",
+    "title": "Chercheurs en informatique et en information",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.computer-and-information-research-scientists.short_description",
-    "detailedDescription": "careers.computer-and-information-research-scientists.detailed_description",
+    "shortDescription": "Mener des recherches sur l'informatique fondamentale et les sciences de l'information en tant que théoriciens, concepteurs ou inventeurs.",
+    "detailedDescription": "Mener des recherches sur l'informatique fondamentale et les sciences de l'information en tant que théoriciens, concepteurs ou inventeurs. Développer des solutions aux problèmes dans le domaine du matériel informatique et des logiciels.",
     "responsibilities": [
-      "Analyze problems to develop solutions involving computer hardware and software.",
-      "Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",
-      "Assign or schedule tasks to meet work priorities and goals.",
-      "Meet with managers, vendors, and others to solicit cooperation and resolve problems.",
-      "Design computers and the software that runs them.",
-      "Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.",
-      "Evaluate project plans and proposals to assess feasibility issues.",
-      "Participate in multidisciplinary projects in areas such as virtual reality, human-computer interaction, or robotics.",
-      "Consult with users, management, vendors, and technicians to determine computing needs and system requirements.",
-      "Develop and interpret organizational goals, policies, and procedures.",
-      "Develop performance standards, and evaluate work in light of established standards.",
-      "Maintain network hardware and software, direct network security measures, and monitor networks to ensure availability to system users.",
-      "Direct daily operations of departments, coordinating project activities with other departments.",
-      "Participate in staffing decisions and direct training of subordinates.",
-      "Approve, prepare, monitor, and adjust operational budgets."
+      "Analyser les problèmes pour développer des solutions impliquant du matériel informatique et des logiciels.",
+      "Appliquer l'expertise théorique et l'innovation pour créer ou appliquer de nouvelles technologies, comme l'adaptation des principes d'application des ordinateurs aux nouveaux usages.",
+      "Attribuer ou planifier les tâches pour atteindre les priorités et les objectifs du travail.",
+      "Rencontrer les gestionnaires, les fournisseurs et d'autres pour solliciter la coopération et résoudre les problèmes.",
+      "Concevoir des ordinateurs et le logiciel qui les gère.",
+      "Effectuer des analyses logiques des problèmes commerciaux, scientifiques, techniques et autres, en formulant des modèles mathématiques de problèmes à résoudre par les ordinateurs.",
+      "Évaluer les plans et les propositions de projet pour évaluer les questions de faisabilité.",
+      "Participer à des projets multidisciplinaires dans des domaines comme la réalité virtuelle, l'interaction homme-ordinateur ou la robotique.",
+      "Consulter les utilisateurs, la direction, les fournisseurs et les techniciens pour déterminer les besoins en informatique et les exigences du système.",
+      "Élaborer et interpréter des objectifs, des politiques et des procédures organisationnelles.",
+      "Élaborer des normes de rendement et évaluer le travail à la lumière des normes établies.",
+      "Maintenir le matériel et les logiciels du réseau, diriger les mesures de sécurité du réseau et surveiller les réseaux afin d'assurer la disponibilité des utilisateurs du système.",
+      "Diriger les opérations quotidiennes des ministères, coordonner les activités de projet avec d'autres ministères.",
+      "Participer aux décisions de dotation et à la formation directe des subalternes.",
+      "Approuver, préparer, surveiller et ajuster les budgets opérationnels."
     ],
     "skills": [
       "Esprit critique",
@@ -625,17 +1205,9 @@
         "target": 89,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 67,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -652,52 +1224,58 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1221",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1221.htm"
+    }
   },
   {
     "id": "computer-network-architects",
     "domain": "technology",
-    "title": "careers.computer-network-architects.title",
+    "contentLanguage": "fr",
+    "title": "Architectes de réseaux informatiques",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.computer-network-architects.short_description",
-    "detailedDescription": "careers.computer-network-architects.detailed_description",
+    "shortDescription": "Concevoir et mettre en place des réseaux informatiques et d'information, tels que les réseaux locaux (LAN), les réseaux étendus (WAN), les intranets, les extranets et d'autres réseaux de communication de données.",
+    "detailedDescription": "Concevoir et mettre en place des réseaux informatiques et d'information, tels que les réseaux locaux (LAN), les réseaux étendus (WAN), les intranets, les extranets et d'autres réseaux de communication de données. Effectuer la modélisation, l'analyse et la planification des réseaux, y compris l'analyse des besoins en capacités des infrastructures de réseau. Peut également concevoir des mesures de sécurité des réseaux et des ordinateurs. Peut rechercher et recommander le matériel et les logiciels de communication de réseaux et de données.",
     "responsibilities": [
-      "Develop disaster recovery plans.",
-      "Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes.",
-      "Develop and implement solutions for network problems.",
-      "Maintain networks by performing activities such as file addition, deletion, or backup.",
-      "Coordinate network operations, maintenance, repairs, or upgrades.",
-      "Coordinate installation of new equipment.",
-      "Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning.",
-      "Develop network-related documentation.",
-      "Develop and write procedures for installation, use, or troubleshooting of communications hardware or software.",
-      "Participate in network technology upgrade or expansion projects, including installation of hardware and software and integration testing.",
-      "Design, build, or operate equipment configuration prototypes, including network hardware, software, servers, or server operation systems.",
-      "Adjust network sizes to meet volume or capacity demands.",
-      "Communicate with system users to ensure accounts are set up properly or to diagnose and solve operational problems.",
-      "Develop conceptual, logical, or physical network designs.",
-      "Evaluate network designs to determine whether customer requirements are met efficiently and effectively.",
-      "Communicate with vendors to gather information about products, alert them to future needs, resolve problems, or address system maintenance issues.",
-      "Develop plans or budgets for network equipment replacement.",
-      "Communicate with customers, sales staff, or marketing staff to determine customer needs.",
-      "Determine specific network hardware or software requirements, such as platforms, interfaces, bandwidths, or routine schemas.",
-      "Prepare detailed network specifications, including diagrams, charts, equipment configurations, or recommended technologies.",
-      "Supervise engineers or other staff in the design or implementation of network solutions.",
-      "Research and test new or modified hardware or software products to determine performance and interoperability.",
-      "Estimate time and materials needed to complete projects.",
-      "Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",
-      "Explain design specifications to integration or test engineers.",
-      "Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",
-      "Coordinate network or design activities with designers of associated networks.",
-      "Prepare or monitor project schedules, budgets, or cost control systems.",
-      "Prepare design presentations and proposals for staff or customers.",
-      "Use network computer-aided design (CAD) software packages to optimize network designs.",
-      "Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.",
-      "Develop or maintain project reporting systems.",
-      "Maintain or coordinate the maintenance of network peripherals, such as printers."
+      "Élaborer des plans de reprise après sinistre.",
+      "Élaborer ou recommander des mesures de sécurité du réseau, comme des pare-feu, des audits de sécurité du réseau ou des sondes de sécurité automatisées.",
+      "Élaborer et mettre en œuvre des solutions aux problèmes de réseau.",
+      "Maintenir les réseaux en exécutant des activités telles que l'ajout de fichiers, la suppression ou la sauvegarde.",
+      "Coordonner les opérations de réseau, l'entretien, les réparations ou les mises à niveau.",
+      "Coordonner l'installation de nouveaux équipements.",
+      "Surveiller et analyser le rendement du réseau et faire rapport sur l'entrée ou la sortie des données pour détecter les problèmes, déceler l'utilisation inefficace des ressources informatiques ou planifier les capacités.",
+      "Élaborer des documents liés au réseau.",
+      "Élaborer et rédiger des procédures d'installation, d'utilisation ou de dépannage du matériel ou des logiciels de communication.",
+      "Participer à des projets de mise à niveau ou d'expansion des technologies du réseau, y compris l'installation de matériel et de logiciels et les essais d'intégration.",
+      "Concevoir, construire ou utiliser des prototypes de configuration d'équipement, y compris du matériel réseau, des logiciels, des serveurs ou des systèmes d'exploitation de serveur.",
+      "Régler les dimensions du réseau pour répondre aux besoins en volume ou en capacité.",
+      "Communiquer avec les utilisateurs du système pour s'assurer que les comptes sont correctement établis ou pour diagnostiquer et résoudre les problèmes opérationnels.",
+      "Développer des conceptions conceptuelles, logiques ou physiques de réseaux.",
+      "Évaluer les conceptions du réseau pour déterminer si les besoins des clients sont satisfaits de façon efficiente et efficace.",
+      "Communiquer avec les fournisseurs pour recueillir de l'information sur les produits, les avertir des besoins futurs, résoudre les problèmes ou régler les problèmes de maintenance du système.",
+      "Élaborer des plans ou des budgets pour le remplacement de l'équipement du réseau.",
+      "Communiquer avec les clients, le personnel commercial ou le personnel de marketing pour déterminer les besoins des clients.",
+      "Déterminer les besoins spécifiques en matériel de réseau ou en logiciels, comme les plates-formes, les interfaces, les bandes passantes ou les schémas de routine.",
+      "Préparer des spécifications détaillées du réseau, y compris des diagrammes, des cartes, des configurations d'équipement ou des technologies recommandées.",
+      "Superviser les ingénieurs ou autres employés dans la conception ou la mise en œuvre de solutions réseau.",
+      "Recherche et essai de matériel ou de logiciels nouveaux ou modifiés pour déterminer les performances et l'interopérabilité.",
+      "Estimation du temps et du matériel nécessaires à l'achèvement des projets.",
+      "Concevoir, organiser et offrir des séances de sensibilisation aux produits, de transfert de compétences ou de sensibilisation aux produits pour le personnel ou les fournisseurs.",
+      "Expliquer les spécifications de conception aux ingénieurs d'intégration ou de test.",
+      "Élaborer des procédures pour suivre, projeter ou signaler la disponibilité, la fiabilité, la capacité ou l'utilisation du réseau.",
+      "Coordonner les activités de réseau ou de conception avec les concepteurs des réseaux associés.",
+      "Préparer ou surveiller les calendriers de projets, les budgets ou les systèmes de contrôle des coûts.",
+      "Préparer des présentations et des propositions de conception pour le personnel ou les clients.",
+      "Utilisez des progiciels de conception assistée par ordinateur (CAD) pour optimiser les conceptions réseau.",
+      "Visitez les fournisseurs, assistez à des conférences ou à des séances de formation, ou étudiez des revues techniques pour suivre les changements technologiques.",
+      "Élaborer ou maintenir des systèmes de rapports sur les projets.",
+      "Maintenir ou coordonner la maintenance des périphériques réseau, tels que les imprimantes."
     ],
     "skills": [
       "Esprit critique",
@@ -750,17 +1328,9 @@
         "target": 83,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 53,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -777,45 +1347,51 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1241",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1241.htm"
+    }
   },
   {
     "id": "computer-network-support-specialists",
     "domain": "technology",
-    "title": "careers.computer-network-support-specialists.title",
+    "contentLanguage": "fr",
+    "title": "Spécialistes du soutien au réseau informatique",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.computer-network-support-specialists.short_description",
-    "detailedDescription": "careers.computer-network-support-specialists.detailed_description",
+    "shortDescription": "Analyser, tester, dépanner et évaluer les systèmes de réseau existants, tels que les réseaux locaux (LAN), les réseaux étendus (WAN), les réseaux cloud, les serveurs et autres réseaux de communication de données.",
+    "detailedDescription": "Analyser, tester, dépanner et évaluer les systèmes de réseau existants, tels que les réseaux locaux (LAN), les réseaux étendus (WAN), les réseaux cloud, les serveurs et autres réseaux de communication de données. Effectuer la maintenance du réseau pour s'assurer que les réseaux fonctionnent correctement avec une interruption minimale.",
     "responsibilities": [
-      "Back up network data.",
-      "Configure security settings or access permissions for groups or individuals.",
-      "Analyze and report computer network security breaches or attempted breaches.",
-      "Identify the causes of networking problems, using diagnostic testing software and equipment.",
-      "Document network support activities.",
-      "Configure wide area network (WAN) or local area network (LAN) routers or related equipment.",
-      "Install network software, including security or firewall software.",
-      "Troubleshoot network or connectivity problems for users or user groups.",
-      "Provide telephone support related to networking or connectivity issues.",
-      "Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes.",
-      "Analyze network data to determine network usage, disk space availability, or server function.",
-      "Perform routine maintenance or standard repairs to networking components or equipment.",
-      "Configure and define parameters for installation or testing of local area network (LAN), wide area network (WAN), hubs, routers, switches, controllers, multiplexers, or related networking equipment.",
-      "Install new hardware or software systems or components, ensuring integration with existing network systems.",
-      "Test computer software or hardware, using standard diagnostic testing equipment and procedures.",
-      "Install or repair network cables, including fiber optic cables.",
-      "Monitor industry Web sites or publications for information about patches, releases, viruses, or potential problem identification.",
-      "Create or update technical documentation for network installations or changes to existing installations.",
-      "Train users in procedures related to network applications software or related systems.",
-      "Test repaired items to ensure proper operation.",
-      "Install and configure wireless networking equipment.",
-      "Maintain logs of network activity.",
-      "Document help desk requests and resolutions.",
-      "Research hardware or software products to meet technical networking or security needs.",
-      "Create or revise user instructions, procedures, or manuals.",
-      "Run monthly network reports."
+      "Sauvegarde des données réseau.",
+      "Configurez les paramètres de sécurité ou les autorisations d'accès pour les groupes ou les individus.",
+      "Analyser et signaler les atteintes à la sécurité du réseau informatique ou les tentatives de violation.",
+      "Identifier les causes des problèmes de mise en réseau, à l'aide de logiciels et d'équipement de diagnostic.",
+      "Documenter les activités d'appui au réseau.",
+      "Configurer un réseau étendu (WAN) ou un réseau local (LAN) ou un équipement connexe.",
+      "Installez un logiciel réseau, y compris un logiciel de sécurité ou de pare-feu.",
+      "Dépanner les problèmes de réseau ou de connectivité pour les utilisateurs ou les groupes d'utilisateurs.",
+      "Fournir un soutien téléphonique pour les questions de réseautage ou de connectivité.",
+      "Évaluer les données sur les performances du réseau local (LAN) ou du réseau étendu (WAN) afin d'assurer une disponibilité ou une vitesse suffisantes, d'identifier les problèmes de réseau ou à des fins de reprise après sinistre.",
+      "Analyser les données réseau pour déterminer l'utilisation du réseau, la disponibilité de l'espace disque ou la fonction du serveur.",
+      "Effectuer l'entretien de routine ou les réparations standard des composants ou de l'équipement de réseau.",
+      "Configurer et définir les paramètres d'installation ou d'essai du réseau local (LAN), du réseau étendu (WAN), des hubs, des routeurs, des commutateurs, des contrôleurs, des multiplexeurs ou des équipements de réseau connexes.",
+      "Installer de nouveaux systèmes ou composants matériels ou logiciels, en assurant l'intégration avec les systèmes réseau existants.",
+      "Tester le logiciel ou le matériel informatique en utilisant l'équipement et les procédures de diagnostic standard.",
+      "Installer ou réparer des câbles réseau, y compris des câbles à fibre optique.",
+      "Surveiller les sites Web ou les publications de l'industrie pour obtenir de l'information sur les patchs, les rejets, les virus ou l'identification éventuelle des problèmes.",
+      "Créer ou mettre à jour la documentation technique pour les installations de réseau ou les modifications aux installations existantes.",
+      "Former les utilisateurs aux procédures liées aux logiciels d'applications réseau ou aux systèmes connexes.",
+      "Tester les articles réparés pour assurer le bon fonctionnement.",
+      "Installez et configurez des équipements de réseau sans fil.",
+      "Tenir des registres des activités du réseau.",
+      "Documents demandes d'aide et résolutions.",
+      "Recherche de matériel ou de logiciels pour répondre à des besoins techniques de mise en réseau ou de sécurité.",
+      "Créer ou réviser les instructions, procédures ou manuels de l'utilisateur.",
+      "Faire des rapports mensuels sur le réseau."
     ],
     "skills": [
       "Esprit critique",
@@ -869,17 +1445,9 @@
         "target": 86,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 48,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -896,36 +1464,42 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1231",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1231.htm"
+    }
   },
   {
     "id": "computer-programmers",
     "domain": "technology",
-    "title": "careers.computer-programmers.title",
+    "contentLanguage": "fr",
+    "title": "Programmeurs informatiques",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.computer-programmers.short_description",
-    "detailedDescription": "careers.computer-programmers.detailed_description",
+    "shortDescription": "Créez, modifiez et testez le code et les scripts qui permettent aux applications informatiques de fonctionner.",
+    "detailedDescription": "Créez, modifiez et testez le code et les scripts qui permettent aux applications informatiques de fonctionner. Travaux à partir de spécifications élaborées par des développeurs de logiciels et de web ou d'autres personnes. Peut élaborer et écrire des programmes informatiques pour stocker, localiser et récupérer des documents, des données et des informations spécifiques.",
     "responsibilities": [
-      "Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",
-      "Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.",
-      "Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",
-      "Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",
-      "Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",
-      "Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.",
-      "Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",
-      "Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",
-      "Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.",
-      "Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.",
-      "Write or contribute to instructions or manuals to guide end users.",
-      "Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",
-      "Assign, coordinate, and review work and activities of programming personnel.",
-      "Train subordinates in programming and program coding.",
-      "Develop Web sites.",
-      "Train users on the use and function of computer programs.",
-      "Collaborate with computer manufacturers and other users to develop new programming methods."
+      "Écrire, analyser, examiner et réécrire des programmes, en utilisant le diagramme et le diagramme de flux de travail, et en appliquant la connaissance des capacités informatiques, de la matière et de la logique symbolique.",
+      "Corriger les erreurs en apportant les changements appropriés et en revérifiant le programme pour s'assurer que les résultats souhaités sont produits.",
+      "Procéder à la révision, à la réparation ou à l'expansion directe des programmes existants afin d'accroître l'efficacité opérationnelle ou de s'adapter aux nouvelles exigences.",
+      "Rédiger, mettre à jour et tenir à jour des programmes informatiques ou des progiciels pour gérer des tâches précises comme le suivi de l'inventaire, le stockage ou la récupération de données ou le contrôle d'autres équipements.",
+      "Consulter les gestionnaires, les ingénieurs et les techniciens pour clarifier l'intention du programme, cerner les problèmes et suggérer des changements.",
+      "Effectuer des essais de programmes et d'applications logicielles pour s'assurer qu'ils produisent l'information souhaitée et que les instructions sont correctes.",
+      "Préparer des diagrammes détaillés qui décrivent l'entrée, la sortie et l'opération logique, et les convertir en une série d'instructions codées dans un langage informatique.",
+      "Compilez et écrivez la documentation sur l'élaboration du programme et les révisions subséquentes, en insérant des commentaires dans les instructions codées afin que d'autres puissent comprendre le programme.",
+      "Consulter et aider les opérateurs informatiques ou les analystes de systèmes à définir et à résoudre les problèmes liés à l'exécution des programmes informatiques.",
+      "Effectuer des tâches d'analyse et de programmation des systèmes pour maintenir et contrôler l'utilisation des logiciels de systèmes informatiques comme programmeur de systèmes.",
+      "Écrire ou contribuer aux instructions ou manuels pour guider les utilisateurs finaux.",
+      "Vérifier si les réseaux, les postes de travail, l'unité centrale de traitement du système ou l'équipement périphérique répondent aux instructions d'un programme.",
+      "Attribuer, coordonner et examiner le travail et les activités du personnel de programmation.",
+      "Former les subordonnés à la programmation et au codage des programmes.",
+      "Élaborer des sites Web.",
+      "Former les utilisateurs sur l'utilisation et la fonction des programmes informatiques.",
+      "Collaborer avec les fabricants d'ordinateurs et d'autres utilisateurs pour élaborer de nouvelles méthodes de programmation."
     ],
     "skills": [
       "Programmation",
@@ -979,17 +1553,9 @@
         "target": 79,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 39,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1006,42 +1572,48 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1251",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1251.htm"
+    }
   },
   {
     "id": "computer-systems-analysts",
     "domain": "technology",
-    "title": "careers.computer-systems-analysts.title",
+    "contentLanguage": "fr",
+    "title": "Analystes de systèmes informatiques",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "careers.computer-systems-analysts.short_description",
-    "detailedDescription": "careers.computer-systems-analysts.detailed_description",
+    "shortDescription": "Analyser les problèmes de science, d'ingénierie, d'entreprise et d'autres problèmes de traitement des données afin d'élaborer et de mettre en oeuvre des solutions à des problèmes complexes d'applications, à des problèmes d'administration du système ou à des problèmes de réseau.",
+    "detailedDescription": "Analyser les problèmes de science, d'ingénierie, d'entreprise et d'autres problèmes de traitement des données afin d'élaborer et de mettre en oeuvre des solutions à des problèmes complexes d'applications, à des problèmes d'administration du système ou à des problèmes de réseau. Exécuter des fonctions de gestion et d'intégration des systèmes, améliorer les systèmes informatiques existants et examiner les capacités des systèmes informatiques, les flux de travail et les limites du calendrier. Peut analyser ou recommander des logiciels disponibles sur le marché.",
     "responsibilities": [
-      "Troubleshoot program and system malfunctions to restore normal functioning.",
-      "Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems.",
-      "Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",
-      "Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",
-      "Coordinate and link the computer systems within an organization to increase compatibility so that information can be shared.",
-      "Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",
-      "Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",
-      "Consult with management to ensure agreement on system principles.",
-      "Specify inputs accessed by the system and plan the distribution and use of the results.",
-      "Expand or modify system to serve new purposes or improve work flow.",
-      "Train staff and users to work with computer systems and programs.",
-      "Assess the usefulness of pre-developed application packages and adapt them to a user environment.",
-      "Determine computer software or hardware needed to set up or alter systems.",
-      "Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",
-      "Develop, document, and revise system design procedures, test procedures, and quality standards.",
-      "Recommend new equipment or software packages.",
-      "Define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs.",
-      "Confer with clients regarding the nature of the information processing or computation needs a computer program is to address.",
-      "Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",
-      "Interview or survey workers, observe job performance, or perform the job to determine what information is processed and how it is processed.",
-      "Supervise computer programmers or other systems analysts or serve as project leaders for particular systems projects.",
-      "Prepare cost-benefit and return-on-investment analyses to aid in decisions on system implementation.",
-      "Write code to perform desired actions."
+      "Défaillance du programme et du système pour rétablir le fonctionnement normal.",
+      "Fournir au personnel et aux utilisateurs de l'aide pour résoudre les problèmes informatiques, comme les dysfonctionnements et les problèmes de programme.",
+      "Tester, entretenir et surveiller les programmes et systèmes informatiques, y compris coordonner l'installation des programmes et systèmes informatiques.",
+      "Utiliser l'ordinateur dans l'analyse et la solution des problèmes commerciaux, comme le développement de systèmes intégrés de contrôle de la production et des stocks et d'analyse des coûts.",
+      "Coordonner et relier les systèmes informatiques au sein d'une organisation afin d'accroître la compatibilité afin que l'information puisse être partagée.",
+      "Utilisez des langages de programmation orientés objet, ainsi que les processus de développement d'applications client et serveur et la technologie multimédia et Internet.",
+      "Analyser les besoins de traitement ou de calcul de l'information et planifier et concevoir des systèmes informatiques en utilisant des techniques telles que l'analyse structurée, la modélisation des données et l'ingénierie de l'information.",
+      "Consulter la direction pour s'assurer qu'elle s'entend sur les principes du système.",
+      "Préciser les entrées auxquelles le système a accès et planifier la distribution et l'utilisation des résultats.",
+      "Élargir ou modifier le système pour servir de nouveaux objectifs ou améliorer le débit de travail.",
+      "Former le personnel et les utilisateurs à travailler avec les systèmes et les programmes informatiques.",
+      "Évaluer l'utilité des paquets d'applications pré-développés et les adapter à un environnement utilisateur.",
+      "Déterminer le logiciel ou le matériel informatique nécessaire pour configurer ou modifier les systèmes.",
+      "Lisez les manuels, les périodiques et les rapports techniques pour apprendre à élaborer des programmes qui répondent aux besoins du personnel et des utilisateurs.",
+      "Élaborer, documenter et réviser les procédures de conception du système, les procédures d'essai et les normes de qualité.",
+      "Recommander de nouveaux équipements ou logiciels.",
+      "Définir les objectifs du système et concevoir des diagrammes décrivant les étapes opérationnelles logiques des programmes.",
+      "Conférencier avec les clients la nature du traitement de l'information ou des besoins de calcul d'un programme informatique est d'aborder.",
+      "Examiner et analyser les impressions informatiques et les indicateurs de rendement pour repérer les problèmes de code et corriger les erreurs en corrigeant les codes.",
+      "Entrevuer ou interroger les travailleurs, observer le rendement du travail ou effectuer le travail pour déterminer l'information traitée et comment elle est traitée.",
+      "Superviser les programmeurs informatiques ou autres analystes de systèmes ou servir de chefs de projet pour des projets de systèmes particuliers.",
+      "Préparer des analyses coûts-avantages et retour sur investissement pour aider à prendre des décisions sur la mise en œuvre du système.",
+      "Écrivez un code pour effectuer les actions souhaitées."
     ],
     "skills": [
       "Esprit critique",
@@ -1095,17 +1667,9 @@
         "target": 86,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 54,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1122,11 +1686,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1211",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1211.htm"
+    }
   },
   {
     "id": "computer-systems-engineers-architects",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.computer-systems-engineers-architects.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -1215,17 +1785,9 @@
         "target": 76,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 62,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1242,11 +1804,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "computer-user-support-specialists",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.computer-user-support-specialists.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -1323,17 +1891,9 @@
         "target": 82,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 42,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1350,11 +1910,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1232",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1232.htm"
+    }
   },
   {
     "id": "data-scientist",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.data-scientist.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -1433,17 +1999,9 @@
         "target": 83,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 51,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1460,11 +2018,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-2051",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-2051.htm"
+    }
   },
   {
     "id": "data-warehousing-specialists",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.data-warehousing-specialists.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -1544,17 +2108,9 @@
         "target": 81,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 48,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1571,11 +2127,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1243",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1243.htm"
+    }
   },
   {
     "id": "database-administrators",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.database-administrators.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -1654,17 +2216,9 @@
         "target": 67,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 49,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1681,11 +2235,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1242",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1242.htm"
+    }
   },
   {
     "id": "database-architects",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.database-architects.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -1772,17 +2332,9 @@
         "target": 81,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 47,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1799,11 +2351,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1243",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1243.htm"
+    }
   },
   {
     "id": "digital-forensics-analysts",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.digital-forensics-analysts.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -1885,17 +2443,9 @@
         "target": 91,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 57,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -1912,11 +2462,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "document-management-specialists",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.document-management-specialists.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2001,17 +2557,9 @@
         "target": 72,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 40,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2028,11 +2576,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "geographic-information-systems-technologists-and-technicians",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.geographic-information-systems-technologists-and-technicians.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2124,17 +2678,9 @@
         "target": 76,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 34,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2151,11 +2697,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "health-informatics-specialists",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.health-informatics-specialists.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2233,17 +2785,9 @@
         "target": 85,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 57,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2260,11 +2804,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1211",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1211.htm"
+    }
   },
   {
     "id": "information-security-analysts",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.information-security-analysts.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2336,17 +2886,9 @@
         "target": 76,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 68,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2363,11 +2905,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1212",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1212.htm"
+    }
   },
   {
     "id": "information-security-engineers",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.information-security-engineers.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2449,17 +2997,9 @@
         "target": 86,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 63,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2476,11 +3016,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "information-technology-project-managers",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.information-technology-project-managers.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2562,17 +3108,9 @@
         "target": 85,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 69,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2589,11 +3127,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "mathematicians",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.mathematicians.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2667,17 +3211,9 @@
         "target": 84,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 49,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2694,11 +3230,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-2021",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-2021.htm"
+    }
   },
   {
     "id": "network-and-computer-systems-administrators",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.network-and-computer-systems-administrators.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2779,17 +3321,9 @@
         "target": 78,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 54,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2806,11 +3340,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1244",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1244.htm"
+    }
   },
   {
     "id": "operations-research-analysts",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.operations-research-analysts.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -2889,17 +3429,9 @@
         "target": 81,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 46,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -2916,11 +3448,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-2031",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-2031.htm"
+    }
   },
   {
     "id": "penetration-testers",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.penetration-testers.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3004,17 +3542,9 @@
         "target": 86,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 68,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3031,11 +3561,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "software-engineer",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.software-engineer.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3116,17 +3652,9 @@
         "target": 78,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 53,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3143,11 +3671,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1252",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes151252.htm"
+    }
   },
   {
     "id": "software-quality-assurance-analysts-and-testers",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.software-quality-assurance-analysts-and-testers.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3238,17 +3772,9 @@
         "target": 84,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 38,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3265,11 +3791,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1253",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1253.htm"
+    }
   },
   {
     "id": "statisticians",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.statisticians.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3350,17 +3882,9 @@
         "target": 83,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 29,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3377,11 +3901,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-2041",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-2041.htm"
+    }
   },
   {
     "id": "telecommunications-engineering-specialists",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.telecommunications-engineering-specialists.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3468,17 +3998,9 @@
         "target": 82,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 50,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3495,11 +4017,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1241",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1241.htm"
+    }
   },
   {
     "id": "video-game-designers",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.video-game-designers.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3585,17 +4113,9 @@
         "target": 68,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 63,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3612,11 +4132,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1255",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1255.htm"
+    }
   },
   {
     "id": "web-administrators",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.web-administrators.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3713,17 +4239,9 @@
         "target": 78,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 51,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3740,11 +4258,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1299",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1299.htm"
+    }
   },
   {
     "id": "web-and-digital-interface-designers",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.web-and-digital-interface-designers.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3836,17 +4360,9 @@
         "target": 68,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 50,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3863,11 +4379,17 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1255",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1255.htm"
+    }
   },
   {
     "id": "web-developers",
     "domain": "technology",
+    "contentLanguage": "en",
     "title": "careers.web-developers.title",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
@@ -3957,17 +4479,9 @@
         "target": 82,
         "importance": 0.5
       },
-      "technology": {
-        "target": null,
-        "importance": null
-      },
       "motivation": {
         "target": 54,
         "importance": 0.5
-      },
-      "work_environment": {
-        "target": null,
-        "importance": null
       }
     },
     "compatibleWorkStyles": [],
@@ -3984,6 +4498,11 @@
         "sourceDate": "2025-05-01"
       }
     ],
-    "relatedCareers": []
+    "relatedCareers": [],
+    "soc": "15-1254",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes15-1254.htm"
+    }
   }
 ]
