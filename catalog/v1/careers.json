@@ -129,36 +129,36 @@
   {
     "id": "marketing-manager",
     "domain": "business",
-    "contentLanguage": "en",
-    "title": "Marketing Managers",
+    "contentLanguage": "fr",
+    "title": "Directeurs marketing",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Plan, direct, or coordinate marketing policies and programs, such as determining the demand for products and services offered by a firm and its competitors, and identify potential customers.",
-    "detailedDescription": "Plan, direct, or coordinate marketing policies and programs, such as determining the demand for products and services offered by a firm and its competitors, and identify potential customers. Develop pricing strategies with the goal of maximizing the firm's profits or share of the market while ensuring the firm's customers are satisfied. Oversee product development or monitor trends that indicate the need for new products and services.",
+    "shortDescription": "Planifier, diriger ou coordonner les politiques et les programmes de marketing, comme déterminer la demande de produits et de services offerts par une entreprise et ses concurrents, et identifier les clients potentiels.",
+    "detailedDescription": "Planifier, diriger ou coordonner les politiques et les programmes de marketing, comme déterminer la demande de produits et de services offerts par une entreprise et ses concurrents, et identifier les clients potentiels. Élaborer des stratégies de tarification dans le but de maximiser les profits ou la part de marché de l'entreprise tout en veillant à ce que ses clients soient satisfaits. Surveiller le développement de produits ou suivre les tendances qui indiquent le besoin de nouveaux produits et services.",
     "responsibilities": [
-      "Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.",
-      "Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.",
-      "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",
-      "Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",
-      "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.",
-      "Develop pricing strategies, balancing firm objectives and customer satisfaction.",
-      "Initiate market research studies, or analyze their findings.",
-      "Compile lists describing product or service offerings.",
-      "Consult with product development personnel on product specifications, such as design, color, or packaging.",
-      "Recommend modifications to products, packaging, production processes, or other characteristics to improve the environmental soundness or sustainability of products.",
-      "Conduct economic or commercial surveys to identify potential markets for products or services.",
-      "Coordinate or participate in promotional activities or trade shows, working with developers, advertisers, or production managers, to market products or services.",
-      "Consult with buying personnel to gain advice regarding the types of products or services expected to be in demand.",
-      "Negotiate contracts with vendors or distributors to manage product distribution, establishing distribution networks or developing distribution strategies.",
-      "Confer with legal staff to resolve problems, such as copyright infringement or royalty sharing with outside producers or distributors.",
-      "Consult with buying personnel to gain advice regarding environmentally sound or sustainable products.",
-      "Advise business or other groups on local, national, or international factors affecting the buying or selling of products or services.",
-      "Select products or accessories to be displayed at trade or special production shows.",
-      "Integrate environmental information into product or company marketing strategies, policies, or activities.",
-      "Develop business cases for environmental marketing strategies.",
-      "Review and edit content for marketing materials."
+      "Formuler, diriger ou coordonner des activités ou des politiques de marketing pour promouvoir des produits ou des services, en collaboration avec des gestionnaires de publicité ou de promotion.",
+      "Utiliser les prévisions des ventes ou la planification stratégique pour assurer la vente et la rentabilité des produits, des lignes ou des services, analyser l'évolution des activités et suivre les tendances du marché.",
+      "Déterminer, élaborer ou évaluer une stratégie de commercialisation fondée sur la connaissance des objectifs de l'établissement, des caractéristiques du marché et des facteurs de coût et de marge.",
+      "Diriger l'embauche, la formation ou les évaluations de rendement du personnel de marketing ou de vente et superviser leurs activités quotidiennes.",
+      "Évaluer les aspects financiers de la mise au point de produits, tels que les budgets, les dépenses, les crédits de recherche et de développement, ou les prévisions de rendement des investissements et de pertes de profits.",
+      "Élaborer des stratégies de tarification, équilibrer les objectifs fermes et la satisfaction de la clientèle.",
+      "Entreprendre des études de marché ou analyser leurs résultats.",
+      "Compiler des listes décrivant les offres de produits ou de services.",
+      "Consulter le personnel de développement du produit sur les spécifications du produit, comme la conception, la couleur ou l'emballage.",
+      "Recommander des modifications aux produits, aux emballages, aux procédés de production ou à d'autres caractéristiques pour améliorer la solidité ou la durabilité environnementale des produits.",
+      "Mener des enquêtes économiques ou commerciales pour déterminer les marchés potentiels de produits ou de services.",
+      "Coordonner ou participer à des activités promotionnelles ou à des foires commerciales, en collaboration avec des développeurs, des annonceurs ou des gestionnaires de production, pour commercialiser des produits ou des services.",
+      "Consulter le personnel d'achat pour obtenir des conseils sur les types de produits ou de services qui devraient être en demande.",
+      "Négocier des contrats avec des fournisseurs ou des distributeurs pour gérer la distribution des produits, établir des réseaux de distribution ou élaborer des stratégies de distribution.",
+      "Conférencier le personnel juridique pour résoudre des problèmes, comme la violation du droit d'auteur ou le partage des redevances avec des producteurs ou des distributeurs extérieurs.",
+      "Consulter le personnel d'achat pour obtenir des conseils sur les produits écologiques ou durables.",
+      "Conseiller les entreprises ou d'autres groupes sur les facteurs locaux, nationaux ou internationaux qui influent sur l'achat ou la vente de produits ou de services.",
+      "Sélectionnez les produits ou accessoires à afficher lors de salons professionnels ou spéciaux de production.",
+      "Intégrer l'information environnementale dans les stratégies, les politiques ou les activités de commercialisation des produits ou des entreprises.",
+      "Élaborer des analyses de rentabilisation pour les stratégies de marketing environnemental.",
+      "Examiner et modifier le contenu pour les documents de marketing."
     ],
     "skills": [
       "Esprit critique",
@@ -236,6 +236,125 @@
     "salarySource": {
       "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
       "url": "https://www.bls.gov/oes/current/oes11-2021.htm"
+    }
+  },
+  {
+    "id": "public-relations-managers",
+    "domain": "business",
+    "contentLanguage": "fr",
+    "title": "Gestionnaires des relations publiques",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Planifier, diriger ou coordonner des activités visant à créer ou maintenir une image publique favorable ou à sensibiliser l'organisation ou le client à la question.",
+    "detailedDescription": "Planifier, diriger ou coordonner des activités visant à créer ou maintenir une image publique favorable ou à sensibiliser l'organisation ou le client à la question.",
+    "responsibilities": [
+      "Établir et maintenir des relations de travail efficaces avec les clients, les fonctionnaires et les représentants des médias et utiliser ces relations pour créer de nouvelles occasions d'affaires.",
+      "Attribuer, superviser et examiner les activités du personnel des relations publiques.",
+      "Identifier les principaux groupes de clients et les principaux auditoires, déterminer le meilleur moyen de leur communiquer de l'information publicitaire et élaborer et mettre en oeuvre un plan de communication.",
+      "Élaborer, mettre en oeuvre ou maintenir des plans de communication en cas de crise.",
+      "Ecrivez des communiqués de presse intéressants et efficaces, préparez des informations pour les trousses multimédias, et développez et maintenez des pages Web sur Internet ou intranet.",
+      "Gérer les budgets de communication.",
+      "Développer et maintenir l'image et l'identité de l'entreprise, qui comprend l'utilisation de logos et d'affiches.",
+      "Faciliter les relations entre les consommateurs ou les parties de l'entreprise, comme les gestionnaires et les employés, ou les différentes succursales.",
+      "Observer et faire rapport sur les tendances sociales, économiques et politiques qui pourraient affecter les employeurs.",
+      "Projets de discours pour les dirigeants d'entreprise et organiser des entrevues et d'autres formes de contact pour eux.",
+      "Formuler des politiques et des procédures relatives aux programmes d'information publique, en collaboration avec les cadres des relations publiques.",
+      "Activités directes d'organismes, d'établissements ou de ministères externes qui élaborent et mettent en oeuvre des stratégies de communication et des programmes d'information.",
+      "Répondre aux demandes d'information sur les activités ou le statut des employeurs.",
+      "Conférencier avec les gestionnaires des relations de travail pour développer des communications internes qui tiennent les employés informés des activités de l'entreprise.",
+      "Évaluer les programmes de publicité et de promotion afin de les rendre compatibles avec les efforts de relations publiques.",
+      "Produire des films et d'autres produits vidéo, réglementer leur distribution et exploiter une bibliothèque de films.",
+      "Gérer des événements spéciaux, comme le parrainage de courses, les partis qui présentent de nouveaux produits ou d'autres activités que soutient l'entreprise, pour attirer l'attention du public par l'intermédiaire des médias sans publicité directe.",
+      "Concevoir et éditer des publications promotionnelles, comme des brochures.",
+      "Gérer les cours de communication internes.",
+      "Tenir les archives de l'entreprise.",
+      "Évaluer l'efficacité des stratégies et des plans de communication.",
+      "Gérer les comptes de médias sociaux des clients, notamment créer du contenu, répondre aux commentaires et aux messages des intervenants et surveiller la perception du public."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "vocational",
+        "bachelors",
+        "masters"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "team",
+      "office",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 77,
+        "importance": 0.77
+      },
+      "creative": {
+        "target": 89,
+        "importance": 0.89
+      },
+      "communication": {
+        "target": 95,
+        "importance": 0.95
+      },
+      "social": {
+        "target": 67,
+        "importance": 0.67
+      },
+      "leadership": {
+        "target": 73,
+        "importance": 0.73
+      },
+      "practical": {
+        "target": 5,
+        "importance": 0.1
+      },
+      "adaptability": {
+        "target": 74,
+        "importance": 0.74
+      },
+      "technology": {
+        "target": 33,
+        "importance": 0.33
+      },
+      "motivation": {
+        "target": 70,
+        "importance": 0.7
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 82410,
+        "midLevel": 146910,
+        "seniorLevel": 284990,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "11-2032",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes11-2032.htm"
     }
   },
   {
@@ -578,6 +697,265 @@
     "salarySource": {
       "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
       "url": "https://www.bls.gov/oes/current/oes27-1012.htm"
+    }
+  },
+  {
+    "id": "fine-artists-including-painters-sculptors-and-illustrators",
+    "domain": "creative",
+    "contentLanguage": "fr",
+    "title": "Beaux artistes, y compris peintres, sculpteurs et illustrateurs",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Créez des oeuvres d'art originales en utilisant une grande variété de médias et de techniques.",
+    "detailedDescription": "Créez des oeuvres d'art originales en utilisant une grande variété de médias et de techniques.",
+    "responsibilities": [
+      "Utilisez des matériaux tels que stylos et encre, aquarelles, charbon de bois, huile ou logiciel informatique pour créer des oeuvres d'art.",
+      "Intégrer et développer des éléments visuels tels que la ligne, l'espace, la masse, la couleur et la perspective, pour produire les effets souhaités, comme l'illustration d'idées, d'émotions ou d'humeurs.",
+      "Conférencier avec des clients, des éditeurs, des écrivains, des directeurs d'art et d'autres parties intéressées au sujet de la nature et du contenu des oeuvres à produire.",
+      "Maintenir des portefeuilles d'oeuvres artistiques pour démontrer les styles, les intérêts et les capacités.",
+      "Oeuvres de marché au moyen de brochures, de mailings ou de sites Web.",
+      "Étudier différentes techniques pour apprendre à les appliquer aux activités artistiques.",
+      "Surveiller les événements, les tendances et d'autres circonstances, étudier des sujets précis, assister à des expositions d'art et lire des publications d'art pour développer des idées et se tenir au courant des activités du monde de l'art.",
+      "Objets photographiques, lieux ou scènes de référence.",
+      "Modéliser des substances comme l'argile ou la cire, en utilisant des doigts et de petits outils à main pour former des objets.",
+      "Créez des sculptures, des statues et d'autres œuvres tridimensionnelles en utilisant des abrasifs et des outils pour façonner, découper et fabriquer des matériaux tels que l'argile, la pierre, le bois ou le métal.",
+      "Mettre en place des expositions d'œuvres d'art pour l'exposition ou la vente.",
+      "Dessins, illustrations et esquisses de bâtiments, de produits manufacturés ou de modèles, à partir de croquis, de plans, de mémoires, de modèles ou de matériaux de référence.",
+      "Coucher et remplir les contours et les arrière-plans des croquis, en utilisant une variété de supports tels que les couleurs d'eau, les marqueurs et les lavages transparents, en étiquetant les couleurs désignées au besoin.",
+      "Cadre et tapis pour l'exposition ou la vente.",
+      "Soumettre des oeuvres d'art à des spectacles ou des galeries.",
+      "Soumettre les plans préliminaires ou terminés d'oeuvres d'art ou de projet aux clients pour approbation, en y intégrant les changements nécessaires.",
+      "Collaborer avec des ingénieurs, des mécaniciens et d'autres experts techniques au besoin pour construire et installer des créations.",
+      "Couper, plier, stratifiér, arranger et fixer les matières premières et les produits manufacturés individuels ou mélangés pour former des oeuvres d'art.",
+      "Élaborer des budgets de projet pour approbation, estimer les délais et les coûts matériels.",
+      "Créez et préparez des croquis et des dessins modèles de personnages de dessin animé, fournissant des détails à partir de la mémoire, des modèles en direct, des produits manufacturés ou des matériaux de référence.",
+      "Créez une œuvre d'art finie comme décoration, ou pour élucider ou remplacer les messages parlés ou écrits.",
+      "Créer des croquis, des profils ou des ressemblances de sujets ou de photographies posés, en utilisant toute combinaison de dessin à main libre, de kits d'assemblage mécanique et d'imagerie informatique.",
+      "Tracez des dessins sur de l'acétate transparent pour la peinture ou la coloration, ou tracez-les avec de l'encre pour faire des copies finales.",
+      "Appliquer des solvants et des agents nettoyants pour nettoyer les surfaces des peintures, et enlever les accrétions, les décolorations et le vernis détérioré.",
+      "Collaborer avec des écrivains qui créent des idées, des histoires ou des légendes qui sont combinées avec le travail des artistes.",
+      "Brossez ou pulvérisez des finitions protectrices ou décoratives sur des panneaux de fond complets, des légendes informatives, des accessoires d'exposition ou des peintures finies.",
+      "Apprendre les techniques artistiques aux enfants ou aux adultes.",
+      "Offrir des divertissements lors d'événements spéciaux en exécutant des activités telles que des dessins animés."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "high_school",
+        "bachelors",
+        "other"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "office",
+      "hazardous",
+      "team"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 48,
+        "importance": 0.48
+      },
+      "creative": {
+        "target": 95,
+        "importance": 0.95
+      },
+      "communication": {
+        "target": 39,
+        "importance": 0.39
+      },
+      "social": {
+        "target": 44,
+        "importance": 0.44
+      },
+      "leadership": {
+        "target": 14,
+        "importance": 0.14
+      },
+      "practical": {
+        "target": 17,
+        "importance": 0.17
+      },
+      "adaptability": {
+        "target": 62,
+        "importance": 0.62
+      },
+      "technology": {
+        "target": 45,
+        "importance": 0.45
+      },
+      "motivation": {
+        "target": 57,
+        "importance": 0.57
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "intermediate"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 31630,
+        "midLevel": 55490,
+        "seniorLevel": 144210,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "27-1013",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes27-1013.htm"
+    }
+  },
+  {
+    "id": "elementary-school-teachers-except-special-education",
+    "domain": "education",
+    "contentLanguage": "fr",
+    "title": "Enseignants de l'école primaire, sauf l'éducation spéciale",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Apprendre les compétences scolaires et sociales aux élèves du primaire.",
+    "detailedDescription": "Apprendre les compétences scolaires et sociales aux élèves du primaire.",
+    "responsibilities": [
+      "Instruisez les élèves individuellement et en groupe, en utilisant des méthodes d'enseignement telles que des conférences, des discussions et des démonstrations.",
+      "Établir et appliquer des règles de comportement et des procédures pour maintenir l'ordre parmi les étudiants.",
+      "Guider et conseiller les étudiants qui ont des problèmes d'adaptation ou d'études ou qui ont des intérêts scolaires particuliers.",
+      "Adapter les méthodes d'enseignement et le matériel didactique pour répondre aux besoins et aux intérêts variés des élèves.",
+      "Planifier et mener des activités pour un programme équilibré d'instruction, de démonstration et de temps de travail qui donne aux élèves la possibilité d'observer, de questionner et d'enquêter.",
+      "Préparer du matériel et des salles de classe pour les activités de classe.",
+      "Lire des livres à des classes entières ou à de petits groupes.",
+      "Observer et évaluer la performance, le comportement, le développement social et la santé physique des élèves.",
+      "Conférer avec les parents ou tuteurs, les enseignants, les conseillers et les administrateurs pour résoudre les problèmes comportementaux et académiques des élèves.",
+      "Rencontrer les parents et les tuteurs pour discuter des progrès de leurs enfants et déterminer les priorités de leurs enfants et leurs besoins en ressources.",
+      "Utiliser des ordinateurs, des aides audiovisuelles et d'autres équipements et matériels pour compléter les présentations.",
+      "Rencontrer d'autres professionnels pour discuter des besoins et des progrès des étudiants.",
+      "Établir des objectifs clairs pour toutes les leçons, les unités et les projets et communiquer ces objectifs aux étudiants.",
+      "Préparer et mettre en oeuvre des programmes de rattrapage pour les étudiants qui ont besoin d'aide supplémentaire.",
+      "Assigner et classer le travail et les devoirs.",
+      "Préparer, administrer et classer les examens et les affectations pour évaluer les progrès des élèves.",
+      "Préparer les élèves pour les années suivantes en les encourageant à explorer les possibilités d'apprentissage et à persévérer dans des tâches difficiles.",
+      "Tenir des dossiers d'élèves exacts et complets conformément aux lois, aux politiques de district et aux règlements administratifs.",
+      "Appliquer les politiques administratives et les règles régissant les étudiants.",
+      "Organiser et diriger des activités visant à promouvoir le développement physique, mental et social, comme les jeux, les arts et l'artisanat, la musique et la narration.",
+      "Fournir une variété de matériel et de ressources aux enfants pour explorer, manipuler et utiliser, tant dans les activités d'apprentissage que dans le jeu imaginatif.",
+      "Préparer les objectifs et les grandes lignes des cours, en suivant les directives ou les exigences des États et des écoles.",
+      "Se préparer pour les classes assignées et présenter une preuve écrite de préparation à la demande des superviseurs immédiats.",
+      "Instruisez et surveillez les élèves dans l'utilisation et les soins de l'équipement et du matériel pour prévenir les blessures et les dommages.",
+      "Conférencier avec d'autres membres du personnel pour planifier et programmer des leçons favorisant l'apprentissage, conformément aux programmes approuvés.",
+      "Collaborer avec d'autres enseignants et administrateurs à l'élaboration, à l'évaluation et à la révision des programmes des écoles primaires.",
+      "Assister à des réunions professionnelles, à des conférences éducatives et à des ateliers de formation des enseignants pour maintenir et améliorer leurs compétences professionnelles.",
+      "Administrer des tests normalisés d'aptitude et de réussite et interpréter les résultats pour déterminer les forces et les besoins des élèves.",
+      "Planifier et superviser des projets de classe, des excursions sur le terrain, des visites de conférenciers invités ou d'autres activités expérientielles, et guider les étudiants dans l'apprentissage de ces activités.",
+      "Préparer des rapports sur les étudiants et les activités requises par l'administration.",
+      "Supervisez, évaluez et planifiez les affectations d'assistants enseignants et de bénévoles.",
+      "Organisez et marquez le matériel et exposez le travail des élèves.",
+      "Exécuter des tâches administratives, comme l'aide à la bibliothèque scolaire, la surveillance des salles et des cafétérias, le chargement et le déchargement des autobus.",
+      "Assister aux réunions du personnel et siéger aux comités, au besoin.",
+      "Sélectionnez, entreposez, commandez, distribuez et stockez l'équipement, le matériel et les fournitures de classe.",
+      "Faire participer les parents bénévoles et les étudiants plus âgés aux activités des enfants afin de faciliter la participation à des jeux ciblés et complexes.",
+      "Fournir aux étudiants handicapés des appareils d'assistance, des technologies de soutien et de l'aide pour accéder aux installations, comme les toilettes.",
+      "Parrainer des activités parascolaires, comme les clubs, les organisations étudiantes et les concours universitaires."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "bachelors",
+        "masters"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "team",
+      "office",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 59,
+        "importance": 0.59
+      },
+      "creative": {
+        "target": 72,
+        "importance": 0.72
+      },
+      "communication": {
+        "target": 72,
+        "importance": 0.72
+      },
+      "social": {
+        "target": 78,
+        "importance": 0.78
+      },
+      "leadership": {
+        "target": 68,
+        "importance": 0.68
+      },
+      "practical": {
+        "target": 11,
+        "importance": 0.11
+      },
+      "adaptability": {
+        "target": 75,
+        "importance": 0.75
+      },
+      "technology": {
+        "target": 40,
+        "importance": 0.4
+      },
+      "motivation": {
+        "target": 51,
+        "importance": 0.51
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 47960,
+        "midLevel": 63970,
+        "seniorLevel": 104340,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "25-2021",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes25-2021.htm"
     }
   },
   {
@@ -1070,29 +1448,156 @@
     }
   },
   {
-    "id": "medical-doctor",
-    "domain": "healthcare",
-    "contentLanguage": "en",
-    "title": "Family Medicine Physicians",
+    "id": "bioengineers-and-biomedical-engineers",
+    "domain": "engineering",
+    "contentLanguage": "fr",
+    "title": "Bioingénieurs et ingénieurs biomédicaux",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Diagnose, treat, and provide preventive care to individuals and families across the lifespan.",
-    "detailedDescription": "Diagnose, treat, and provide preventive care to individuals and families across the lifespan. May refer patients to specialists when needed for further diagnosis or treatment.",
+    "shortDescription": "Appliquer les connaissances en ingénierie, biologie, chimie, informatique et principes biomécaniques à la conception, au développement et à l'évaluation des systèmes et produits biologiques, agricoles et de santé, tels que les organes artificiels...",
+    "detailedDescription": "Appliquer la connaissance de l'ingénierie, de la biologie, de la chimie, de l'informatique et des principes biomécaniques à la conception, au développement et à l'évaluation des systèmes et produits biologiques, agricoles et de santé, tels que les organes artificiels, les prothèses, l'instrumentation, les systèmes d'information médicale et les systèmes de gestion et de prestation des soins de santé.",
     "responsibilities": [
-      "Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease, or injury.",
-      "Order, perform, and interpret tests and analyze records, reports, and examination information to diagnose patients' condition.",
-      "Collect, record, and maintain patient information, such as medical history, reports, or examination results.",
-      "Monitor patients' conditions and progress and reevaluate treatments as necessary.",
-      "Explain procedures and discuss test results or prescribed treatments with patients.",
-      "Advise patients and community members concerning diet, activity, hygiene, and disease prevention.",
-      "Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff.",
-      "Refer patients to medical specialists or other practitioners when necessary.",
-      "Coordinate work with nurses, social workers, rehabilitation therapists, pharmacists, psychologists, and other health care providers.",
-      "Plan, implement, or administer health programs or standards in hospitals, businesses, or communities for prevention or treatment of injury or illness.",
-      "Train residents, medical students, and other health care professionals.",
-      "Prepare government or organizational reports which include birth, death, and disease statistics, workforce evaluations, or medical status of individuals."
+      "Évaluer la sécurité, l'efficience et l'efficacité du matériel biomédical.",
+      "Préparer des rapports techniques, des documents sommaires de données ou des articles de recherche pour la publication scientifique, les présentations réglementaires ou les demandes de brevet.",
+      "Concevoir ou développer des instruments, des équipements ou des procédures médicaux de diagnostic ou cliniques, en utilisant les principes de l'ingénierie et des sciences biocomportementales.",
+      "Mener des recherches, avec les scientifiques de la vie, les chimistes et les médecins, sur les aspects techniques des systèmes biologiques des humains et des animaux.",
+      "Adapter ou concevoir du matériel informatique ou des logiciels à des fins médicales.",
+      "Tenir à jour des bases de données sur les caractéristiques ou les résultats des expériences.",
+      "Élaborer des modèles ou des simulations statistiques à l'aide de logiciels statistiques ou de modélisation.",
+      "Lisez la littérature scientifique ou commerciale actuelle pour vous tenir au courant des progrès scientifiques, industriels ou technologiques.",
+      "Gérer les équipes d'ingénieurs en créant des calendriers, en suivant l'inventaire, en créant ou en utilisant des budgets ou en surveillant les obligations contractuelles ou les échéances.",
+      "Élaborer des modèles ou des simulations informatiques de systèmes biocomportementaux humains afin d'obtenir des données pour mesurer ou contrôler les processus de vie.",
+      "Concevoir ou effectuer des expérimentations de suivi, à partir de données générées, pour atteindre les objectifs établis du processus.",
+      "Écrire des documents décrivant les protocoles, les politiques, les normes d'utilisation, d'entretien et de réparation du matériel médical.",
+      "Communiquer avec les autorités de bioréglementation en ce qui concerne les responsabilités en matière de licence ou de conformité.",
+      "Élaborer des méthodes pour transférer les procédures ou les processus biologiques des laboratoires à la production manufacturière à l'échelle commerciale.",
+      "Collaborer avec le personnel de la fabrication ou de l'assurance de la qualité pour préparer les spécifications du produit ou les fiches de sécurité, les procédures d'exploitation normalisées, les manuels d'utilisation ou les rapports de qualification et de validation.",
+      "Recherche de nouveaux matériaux à utiliser pour les produits, comme les organes artificiels implantés.",
+      "Préparer des plans de projet pour l'amélioration de l'équipement ou des installations, y compris des échéanciers, des estimations budgétaires ou des demandes de dépenses en immobilisations.",
+      "Consulter des chimistes ou des biologistes pour développer ou évaluer de nouvelles technologies.",
+      "Conférencier avec le personnel de recherche et de fabrication biologique pour assurer la compatibilité de la conception et de la production.",
+      "Recommander des formules de processus, des instruments ou des spécifications d'équipement, en fonction des résultats de l'expérimentation sur banc ou pilote.",
+      "Communiquer avec les fournisseurs au sujet de la conception ou des spécifications de l'équipement de bioproduction, de l'instrumentation ou des matériaux.",
+      "Former les cliniciens et les autres membres du personnel à l'utilisation appropriée de l'équipement ou à leur fournir des services.",
+      "Conseiller les administrateurs des hôpitaux sur la planification, l'acquisition et l'utilisation du matériel médical.",
+      "Analyser les nouvelles procédures médicales pour prévoir les résultats probables.",
+      "Concevoir et fournir des technologies, comme des prothèses, pour aider les personnes handicapées.",
+      "Conseiller le personnel de fabrication sur les problèmes de fermentation, de filtration ou d'autres procédés de bioproduction.",
+      "Examiner les procédés de fabrication existants pour déterminer les possibilités d'amélioration du rendement ou de réduction de la variation des procédés.",
+      "Élaborer des processus de biorestauration pour réduire la pollution, protéger l'environnement ou traiter les déchets.",
+      "Mener des études pour examiner ou recommander des changements dans les séquences de processus ou les protocoles d'exploitation.",
+      "Concevoir ou diriger des expériences de production sur banc ou pilote pour déterminer l'échelle des méthodes de production qui optimisent le rendement du produit et réduisent au minimum les coûts de production."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "bachelors",
+        "masters",
+        "doctorate"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "office",
+      "team",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 87,
+        "importance": 0.87
+      },
+      "creative": {
+        "target": 82,
+        "importance": 0.82
+      },
+      "communication": {
+        "target": 81,
+        "importance": 0.81
+      },
+      "social": {
+        "target": 51,
+        "importance": 0.51
+      },
+      "leadership": {
+        "target": 56,
+        "importance": 0.55
+      },
+      "practical": {
+        "target": 52,
+        "importance": 0.52
+      },
+      "adaptability": {
+        "target": 84,
+        "importance": 0.84
+      },
+      "technology": {
+        "target": 69,
+        "importance": 0.69
+      },
+      "motivation": {
+        "target": 50,
+        "importance": 0.5
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 71850,
+        "midLevel": 109370,
+        "seniorLevel": 168180,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "17-2031",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes17-2031.htm"
+    }
+  },
+  {
+    "id": "medical-doctor",
+    "domain": "healthcare",
+    "contentLanguage": "fr",
+    "title": "Médecins de médecine familiale",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Diagnostiquer, traiter et fournir des soins préventifs aux personnes et aux familles tout au long de la vie.",
+    "detailedDescription": "Diagnostiquer, traiter et fournir des soins préventifs aux personnes et aux familles tout au long de la vie. Peut référer les patients à des spécialistes lorsque nécessaire pour un diagnostic ou un traitement ultérieur.",
+    "responsibilities": [
+      "Prévoir ou administrer le traitement, la thérapie, les médicaments, la vaccination et d'autres soins médicaux spécialisés pour traiter ou prévenir une maladie, une maladie ou une blessure.",
+      "Ordonner, exécuter et interpréter des tests et analyser des dossiers, des rapports et des renseignements d'examen pour diagnostiquer l'état des patients.",
+      "Recueillir, enregistrer et tenir à jour les renseignements sur les patients, comme les antécédents médicaux, les rapports ou les résultats d'examen.",
+      "Surveiller l'état des patients, progresser et réévaluer les traitements au besoin.",
+      "Expliquer les procédures et discuter des résultats des tests ou des traitements prescrits avec les patients.",
+      "Conseiller les patients et les membres de la collectivité au sujet de l'alimentation, de l'activité, de l'hygiène et de la prévention des maladies.",
+      "Diriger et coordonner les activités des infirmières, des étudiants, des assistants, des spécialistes, des thérapeutes et d'autres personnels médicaux.",
+      "Si nécessaire, adresser les patients à des médecins spécialistes ou à d'autres praticiens.",
+      "Coordonner le travail avec les infirmières, les travailleurs sociaux, les thérapeutes en réadaptation, les pharmaciens, les psychologues et d'autres professionnels de la santé.",
+      "Planifier, mettre en oeuvre ou administrer des programmes ou des normes de santé dans les hôpitaux, les entreprises ou les collectivités pour prévenir ou traiter les blessures ou les maladies.",
+      "Former les résidents, les étudiants en médecine et les autres professionnels de la santé.",
+      "Préparer des rapports gouvernementaux ou organisationnels qui comprennent des statistiques sur les naissances, les décès et les maladies, des évaluations de la main-d'oeuvre ou l'état de santé des personnes."
     ],
     "skills": [
       "Esprit critique",
@@ -1385,6 +1890,130 @@
     "salarySource": {
       "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
       "url": "https://www.bls.gov/oes/current/oes19-1012.htm"
+    }
+  },
+  {
+    "id": "soil-and-plant-scientists",
+    "domain": "science",
+    "contentLanguage": "fr",
+    "title": "Scientifiques des sols et des végétaux",
+    "attribution": [
+      "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
+      "Source : U.S. Bureau of Labor Statistics."
+    ],
+    "shortDescription": "Mener des recherches sur l'élevage, la physiologie, la production, le rendement et la gestion des cultures et des plantes ou arbres agricoles, des arbustes et des pépinières, leur croissance dans les sols et la lutte contre les ravageurs; ou étudier la chimie, physique, biologique et...",
+    "detailedDescription": "Mener des recherches sur la reproduction, la physiologie, la production, le rendement et la gestion des cultures et des plantes ou arbres agricoles, des arbustes et des pépinières, leur croissance dans les sols et la lutte contre les ravageurs; ou étudier la composition chimique, physique, biologique et minéralogique des sols en ce qui concerne la croissance des plantes ou des cultures. Peut classer et cartographier les sols et étudier les effets des autres pratiques sur la productivité des sols et des cultures.",
+    "responsibilities": [
+      "Communiquer les résultats de la recherche ou du projet à d'autres professionnels ou au public ou enseigner des cours, séminaires ou ateliers connexes.",
+      "Élaborer des méthodes de conservation ou de gestion des sols qui peuvent être appliquées par les agriculteurs ou les entreprises forestières.",
+      "Fournir des renseignements ou des recommandations aux agriculteurs ou à d'autres propriétaires fonciers sur les façons dont ils peuvent utiliser au mieux les terres, favoriser la croissance des plantes ou éviter ou corriger des problèmes comme l'érosion.",
+      "Effectuer des expériences pour développer des variétés nouvelles ou améliorées de grandes cultures, en mettant l'accent sur des caractéristiques telles que le rendement, la qualité, la résistance aux maladies, la valeur nutritive ou l'adaptation à des sols ou à des climats spécifiques.",
+      "Étudier les problèmes de sol ou la mauvaise qualité de l'eau pour déterminer les sources et les effets.",
+      "Étudier les réactions des sols à des pratiques de gestion spécifiques pour déterminer les capacités d'utilisation des sols et les effets des pratiques de rechange sur la productivité des sols.",
+      "Effectuer des expériences pour étudier les mécanismes sous-jacents de la croissance des plantes et de la réaction à l'environnement.",
+      "Identifier les sols dégradés ou contaminés et élaborer des plans pour améliorer leurs caractéristiques chimiques, biologiques ou physiques.",
+      "Élaborer des méthodes ou des produits nouveaux ou améliorés pour contrôler ou éliminer les mauvaises herbes, les maladies des cultures ou les insectes nuisibles.",
+      "Fournir des conseils sur l'élaboration de normes réglementaires pour la remise en état des terres ou la conservation des sols.",
+      "Étudier les caractéristiques du sol pour classer les sols en fonction de facteurs tels que l'emplacement géographique, la position du paysage ou les propriétés du sol.",
+      "Élaborer des techniques de mesure améliorées, des méthodes de conservation des sols, des dispositifs d'échantillonnage des sols ou des technologies connexes.",
+      "Mener des recherches pour déterminer les meilleures méthodes de plantation, de pulvérisation, de culture, de récolte, de stockage, de transformation ou de transport des produits horticoles.",
+      "Élaborer des méthodes ou des produits sans danger pour l'environnement pour lutter contre les mauvaises herbes, les maladies des cultures ou les ravageurs.",
+      "Étudier des moyens d'améliorer la durabilité agricole, comme l'utilisation de nouvelles méthodes de compostage.",
+      "Consulter des ingénieurs ou d'autres techniciens travaillant sur des projets de construction sur les effets des problèmes de sol et les solutions possibles à ces problèmes.",
+      "Effectuer des analyses chimiques de la teneur en microorganismes des sols pour déterminer les réactions microbiennes ou les relations chimiques minéralogiques avec la croissance des plantes.",
+      "Élaborer des moyens de modifier les sols pour les adapter à différents types de plantes.",
+      "Effectuer des expériences sur la façon dont le sol se forme, change ou interagit avec les écosystèmes terrestres ou les organismes vivants.",
+      "Relevér les terres non perturbées ou perturbées aux fins de classification, d'inventaire, de cartographie, d'évaluation des incidences environnementales, de planification de la protection de l'environnement, de planification de la conservation ou de planification de remise en état.",
+      "Planifier ou superviser des programmes de gestion des déchets pour le compostage ou l'agriculture.",
+      "Exigences techniques de recherche ou impacts environnementaux des espaces verts urbains, comme les installations de toits verts.",
+      "Effectuer des expériences concernant les causes des maladies des abeilles ou les facteurs influant sur les rendements du nectar ou du pollen.",
+      "Identifier ou classer les espèces d'insectes ou de formes connexes, comme les acariens ou les araignées.",
+      "Étudier la répartition ou l'habitat des insectes et recommander des méthodes pour prévenir l'importation ou la propagation d'espèces nuisibles.",
+      "Planifier ou superviser des programmes de conservation ou de remise en état des terres pour des projets de développement industriel.",
+      "Mener des recherches sur l'utilisation d'espèces végétales comme carburants verts ou dans la production de carburants verts."
+    ],
+    "skills": [
+      "Esprit critique",
+      "Programmation"
+    ],
+    "tools": [],
+    "education": {
+      "educationLevels": [
+        "bachelors",
+        "masters",
+        "doctorate"
+      ],
+      "fields": [],
+      "alternativePaths": []
+    },
+    "workEnvironments": [
+      "team",
+      "office",
+      "hazardous"
+    ],
+    "advantages": [],
+    "challenges": [],
+    "careerPath": [],
+    "internationalOpportunities": [],
+    "dimensions": {
+      "analytical": {
+        "target": 84,
+        "importance": 0.84
+      },
+      "creative": {
+        "target": 76,
+        "importance": 0.76
+      },
+      "communication": {
+        "target": 80,
+        "importance": 0.8
+      },
+      "social": {
+        "target": 51,
+        "importance": 0.51
+      },
+      "leadership": {
+        "target": 61,
+        "importance": 0.61
+      },
+      "practical": {
+        "target": 31,
+        "importance": 0.31
+      },
+      "adaptability": {
+        "target": 83,
+        "importance": 0.83
+      },
+      "technology": {
+        "target": 53,
+        "importance": 0.53
+      },
+      "motivation": {
+        "target": 36,
+        "importance": 0.36
+      }
+    },
+    "compatibleWorkStyles": [],
+    "compatibleExperienceLevels": [
+      "experienced"
+    ],
+    "salaries": [
+      {
+        "countryCode": "US",
+        "currency": "USD",
+        "period": "year",
+        "entryLevel": 48680,
+        "midLevel": 78850,
+        "seniorLevel": 138120,
+        "source": "BLS Occupational Employment and Wage Statistics (OEWS)",
+        "sourceDate": "2025-05-01"
+      }
+    ],
+    "relatedCareers": [],
+    "soc": "19-1013",
+    "salarySource": {
+      "label": "BLS Occupational Employment and Wage Statistics (OEWS)",
+      "url": "https://www.bls.gov/oes/current/oes19-1013.htm"
     }
   },
   {
@@ -3611,36 +4240,36 @@
   {
     "id": "information-technology-project-managers",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Information Technology Project Managers",
+    "contentLanguage": "fr",
+    "title": "Gestionnaires de projets informatiques",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Plan, initiate, and manage information technology (IT) projects.",
-    "detailedDescription": "Plan, initiate, and manage information technology (IT) projects. Lead and guide the work of technical staff. Serve as liaison between business and technical aspects of projects. Plan project stages and assess business implications for each stage. Monitor progress to assure deadlines, standards, and cost targets are met.",
+    "shortDescription": "Planifier, lancer et gérer des projets de technologie de l'information (TI).",
+    "detailedDescription": "Planifier, lancer et gérer des projets de technologie de l'information (TI). Diriger et guider le travail du personnel technique. Servir de liaison entre les aspects commerciaux et techniques des projets. Planifier les étapes du projet et évaluer les répercussions opérationnelles pour chaque étape. Surveiller les progrès pour s'assurer que les échéances, les normes et les objectifs de coûts sont atteints.",
     "responsibilities": [
-      "Manage project execution to ensure adherence to budget, schedule, and scope.",
-      "Confer with project personnel to identify and resolve problems.",
-      "Monitor or track project milestones and deliverables.",
-      "Submit project deliverables, ensuring adherence to quality standards.",
-      "Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",
-      "Initiate, review, or approve modifications to project plans.",
-      "Schedule and facilitate meetings related to information technology projects.",
-      "Direct or coordinate activities of project personnel.",
-      "Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).",
-      "Identify need for initial or supplemental project resources.",
-      "Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",
-      "Perform risk assessments to develop response strategies.",
-      "Prepare project status reports by collecting, analyzing, and summarizing information and trends.",
-      "Identify, review, or select vendors or consultants to meet project needs.",
-      "Develop and manage annual budgets for information technology projects.",
-      "Establish and execute a project communication plan.",
-      "Develop and manage work breakdown structure (WBS) of information technology projects.",
-      "Monitor the performance of project team members, providing and documenting performance feedback.",
-      "Coordinate recruitment or selection of project personnel.",
-      "Assign duties, responsibilities, and spans of authority to project personnel.",
-      "Negotiate with project stakeholders or suppliers to obtain resources or materials."
+      "Gérer l'exécution du projet pour assurer le respect du budget, du calendrier et de la portée.",
+      "Conférencier le personnel du projet pour identifier et résoudre les problèmes.",
+      "Surveiller ou suivre les jalons et les produits livrables du projet.",
+      "Soumettre les produits livrables du projet, en veillant au respect des normes de qualité.",
+      "Évaluer les besoins et les priorités actuels ou futurs des clients en communiquant directement avec les clients, en effectuant des enquêtes ou d'autres méthodes.",
+      "Lancer, examiner ou approuver des modifications aux plans de projet.",
+      "Planifier et faciliter les réunions liées aux projets de technologie de l'information.",
+      "Diriger ou coordonner les activités du personnel du projet.",
+      "Élaborer des plans de mise en oeuvre comprenant des analyses comme les coûts-avantages ou le rendement des investissements.",
+      "Déterminer le besoin de ressources initiales ou supplémentaires pour le projet.",
+      "Élaborer ou mettre à jour des plans de projets de technologie de l'information, y compris des renseignements sur les objectifs, les technologies, les systèmes, les spécifications en matière d'information, les calendriers, le financement et la dotation.",
+      "Effectuer des évaluations des risques pour élaborer des stratégies d'intervention.",
+      "Préparer des rapports d'étape en recueillant, analysant et résumant l'information et les tendances.",
+      "Identifier, examiner ou sélectionner des fournisseurs ou des consultants pour répondre aux besoins du projet.",
+      "Élaborer et gérer des budgets annuels pour les projets de technologie de l'information.",
+      "Établir et exécuter un plan de communication du projet.",
+      "Élaborer et gérer la structure de répartition du travail des projets de technologie de l'information.",
+      "Surveiller le rendement des membres de l'équipe de projet, fournir et documenter la rétroaction sur le rendement.",
+      "Coordonner le recrutement ou la sélection du personnel du projet.",
+      "Attribuer des tâches, des responsabilités et des pouvoirs au personnel du projet.",
+      "Négocier avec les intervenants ou les fournisseurs du projet pour obtenir des ressources ou du matériel."
     ],
     "skills": [
       "Esprit critique",
@@ -3722,27 +4351,27 @@
   {
     "id": "mathematicians",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Mathematicians",
+    "contentLanguage": "fr",
+    "title": "Mathématiciens",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Conduct research in fundamental mathematics or in application of mathematical techniques to science, management, and other fields.",
-    "detailedDescription": "Conduct research in fundamental mathematics or in application of mathematical techniques to science, management, and other fields. Solve problems in various fields using mathematical methods.",
+    "shortDescription": "Mener des recherches en mathématiques fondamentales ou en application de techniques mathématiques à la science, à la gestion et à d'autres domaines.",
+    "detailedDescription": "Mener des recherches en mathématiques fondamentales ou en application de techniques mathématiques à la science, à la gestion et à d'autres domaines. Résoudre les problèmes dans différents domaines en utilisant des méthodes mathématiques.",
     "responsibilities": [
-      "Mentor others on mathematical techniques.",
-      "Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",
-      "Develop new principles and new relationships between existing mathematical principles to advance mathematical science.",
-      "Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",
-      "Assemble sets of assumptions, and explore the consequences of each set.",
-      "Perform computations and apply methods of numerical analysis to data.",
-      "Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",
-      "Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",
-      "Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.",
-      "Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",
-      "Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.",
-      "Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code."
+      "Mentor d'autres sur les techniques mathématiques.",
+      "Maintenir les connaissances dans le domaine en lisant des revues professionnelles, en parlant avec d'autres mathématiciens et en assistant à des conférences professionnelles.",
+      "Élaborer de nouveaux principes et de nouvelles relations entre les principes mathématiques existants pour faire progresser les sciences mathématiques.",
+      "Diffuser la recherche en rédigeant des rapports, en publiant des articles ou en présentant des exposés à des conférences professionnelles.",
+      "Assemblez des ensembles d'hypothèses et explorez les conséquences de chaque ensemble.",
+      "Effectuer des calculs et appliquer des méthodes d'analyse numérique aux données.",
+      "S'attaquer aux rapports de quantités, de grandeurs et de formes par l'utilisation de nombres et de symboles.",
+      "Mener des recherches pour étendre les connaissances mathématiques dans des domaines traditionnels tels que l'algèbre, la géométrie, la probabilité et la logique.",
+      "Élaborer des modèles mathématiques ou statistiques de phénomènes à utiliser pour l'analyse ou la simulation de calcul.",
+      "Appliquer les théories et techniques mathématiques à la solution de problèmes pratiques dans les affaires, l'ingénierie, les sciences, ou d'autres domaines.",
+      "Élaborer des méthodes de calcul pour résoudre les problèmes qui surviennent dans les domaines des sciences et du génie ou qui proviennent d'applications dans les entreprises ou l'industrie.",
+      "Concevoir, analyser et déchiffrer des systèmes de chiffrement conçus pour transmettre des renseignements militaires, politiques, financiers ou liés à l'application de la loi en code."
     ],
     "skills": [
       "Esprit critique",
@@ -3825,35 +4454,35 @@
   {
     "id": "network-and-computer-systems-administrators",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Network and Computer Systems Administrators",
+    "contentLanguage": "fr",
+    "title": "Administrateurs de réseaux et de systèmes informatiques",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Install, configure, and maintain an organization's local area network (LAN), wide area network (WAN), data communications network, operating systems, and physical and virtual servers.",
-    "detailedDescription": "Install, configure, and maintain an organization's local area network (LAN), wide area network (WAN), data communications network, operating systems, and physical and virtual servers. Perform system monitoring and verify the integrity and availability of hardware, network, and server resources and systems. Review system and application logs and verify completion of scheduled jobs, including system backups. Analyze network and server resource consumption and control user access. Install and upgrade software and maintain software licenses. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software.",
+    "shortDescription": "Installer, configurer et entretenir le réseau local d'une organisation (LAN), le réseau étendu (WAN), le réseau de communications de données, les systèmes d'exploitation et les serveurs physiques et virtuels.",
+    "detailedDescription": "Installer, configurer et entretenir le réseau local d'une organisation (LAN), le réseau étendu (WAN), le réseau de communications de données, les systèmes d'exploitation et les serveurs physiques et virtuels. Effectuer la surveillance du système et vérifier l'intégrité et la disponibilité du matériel, du réseau et des ressources et systèmes du serveur. Examiner les registres des systèmes et des applications et vérifier l'exécution des tâches prévues, y compris les sauvegardes des systèmes. Analyser la consommation de ressources réseau et serveur et contrôler l'accès des utilisateurs. Installer et mettre à jour les logiciels et maintenir les licences de logiciels. Peut aider à la modélisation, à l'analyse, à la planification et à la coordination des réseaux et du matériel et des logiciels de communications de données.",
     "responsibilities": [
-      "Plan, coordinate, and implement network security measures to protect data, software, and hardware.",
-      "Perform data backups and disaster recovery operations.",
-      "Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",
-      "Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",
-      "Configure, monitor, and maintain email applications or virus protection software.",
-      "Confer with network users about solutions to existing system problems.",
-      "Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.",
-      "Maintain logs related to network functions, as well as maintenance and repair records.",
-      "Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.",
-      "Design, configure, and test computer hardware, networking software and operating system software.",
-      "Maintain an inventory of parts for emergency repairs.",
-      "Perform routine network startup and shutdown procedures, and maintain control records.",
-      "Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",
-      "Coordinate with vendors and with company personnel to facilitate purchases.",
-      "Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",
-      "Analyze equipment performance records to determine the need for repair or replacement.",
-      "Train people in computer system use.",
-      "Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",
-      "Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",
-      "Load computer tapes and disks, and install software and printer paper or forms."
+      "Planifier, coordonner et mettre en oeuvre des mesures de sécurité du réseau pour protéger les données, les logiciels et le matériel.",
+      "Effectuer des sauvegardes de données et des opérations de reprise après sinistre.",
+      "Diagnostiquer, dépanner et résoudre les problèmes de matériel, de logiciels ou d'autres réseaux et systèmes, et remplacer les composants défectueux au besoin.",
+      "Maintenir et administrer les réseaux informatiques et les environnements informatiques connexes, y compris le matériel informatique, les logiciels de systèmes, les logiciels d'applications et toutes les configurations.",
+      "Configurez, surveillez et maintenez les applications de courriel ou les logiciels de protection des virus.",
+      "Conférencier avec les utilisateurs du réseau des solutions aux problèmes système existants.",
+      "Utiliser des consoles maître pour surveiller les performances des systèmes et réseaux informatiques et coordonner l'accès et l'utilisation du réseau informatique.",
+      "Tenir des journaux relatifs aux fonctions du réseau, ainsi que des dossiers de maintenance et de réparation.",
+      "Surveiller la performance du réseau pour déterminer si des ajustements sont nécessaires et où des changements seront nécessaires à l'avenir.",
+      "Concevoir, configurer et tester le matériel informatique, les logiciels de réseautage et les logiciels du système d'exploitation.",
+      "Tenir un inventaire des pièces pour les réparations d'urgence.",
+      "Effectuez des procédures de démarrage et d'arrêt du réseau de routine et maintenez les registres de contrôle.",
+      "Recommander des modifications pour améliorer les systèmes et les configurations de réseau et déterminer les besoins en matériel ou en logiciels liés à ces modifications.",
+      "Coordonner avec les fournisseurs et le personnel de l'entreprise pour faciliter les achats.",
+      "Recueillir des données sur les besoins des clients et utiliser l'information pour déterminer, prédire, interpréter et évaluer les besoins du système et du réseau.",
+      "Analyser les dossiers de rendement de l'équipement pour déterminer la nécessité de réparer ou de remplacer.",
+      "Former les gens à l'utilisation du système informatique.",
+      "Recherche de nouvelles technologies en participant à des séminaires, en lisant des articles commerciaux ou en prenant des cours, et en mettant en œuvre ou en recommandant la mise en oeuvre de nouvelles technologies.",
+      "Mettre en oeuvre et fournir un soutien technique pour les services et l'équipement vocal, comme l'échange de succursales privées, le système de messagerie vocale et le système de télécommunications.",
+      "Chargez des bandes et des disques d'ordinateur, et installez des logiciels et du papier d'imprimante ou des formulaires."
     ],
     "skills": [
       "Esprit critique",
@@ -3935,32 +4564,32 @@
   {
     "id": "operations-research-analysts",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Operations Research Analysts",
+    "contentLanguage": "fr",
+    "title": "Analystes de recherche opérationnelle",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Formulate and apply mathematical modeling and other optimizing methods to develop and interpret information that assists management with decisionmaking, policy formulation, or other managerial functions.",
-    "detailedDescription": "Formulate and apply mathematical modeling and other optimizing methods to develop and interpret information that assists management with decisionmaking, policy formulation, or other managerial functions. May collect and analyze data and develop decision support software, services, or products. May develop and supply optimal time, cost, or logistics networks for program evaluation, review, or implementation.",
+    "shortDescription": "Formuler et appliquer la modélisation mathématique et d'autres méthodes d'optimisation pour développer et interpréter l'information qui aide la direction à prendre des décisions, formuler des politiques ou d'autres fonctions de gestion.",
+    "detailedDescription": "Formuler et appliquer la modélisation mathématique et d'autres méthodes d'optimisation pour développer et interpréter l'information qui aide la direction à prendre des décisions, formuler des politiques ou d'autres fonctions de gestion. Peut recueillir et analyser des données et développer des logiciels, des services ou des produits d'aide à la décision. Peut développer et fournir des réseaux optimaux de temps, de coûts ou de logistique pour l'évaluation, l'examen ou la mise en oeuvre des programmes.",
     "responsibilities": [
-      "Present the results of mathematical modeling and data analysis to management or other end users.",
-      "Define data requirements, and gather and validate information, applying judgment and statistical tests.",
-      "Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",
-      "Prepare management reports defining and evaluating problems and recommending solutions.",
-      "Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.",
-      "Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",
-      "Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",
-      "Analyze information obtained from management to conceptualize and define operational problems.",
-      "Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.",
-      "Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.",
-      "Specify manipulative or computational methods to be applied to models.",
-      "Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",
-      "Develop and apply time and cost networks to plan, control, and review large projects.",
-      "Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",
-      "Educate staff in the use of mathematical models.",
-      "Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",
-      "Review research literature."
+      "Présenter les résultats de la modélisation mathématique et de l'analyse des données à la direction ou à d'autres utilisateurs finaux.",
+      "Définir les exigences en matière de données, recueillir et valider l'information, appliquer le jugement et les tests statistiques.",
+      "Effectuer la validation et l'essai des modèles pour s'assurer qu'ils sont adéquats et reformuler les modèles, au besoin.",
+      "Préparer des rapports de gestion définissant et évaluant les problèmes et recommandant des solutions.",
+      "Collaborer avec d'autres membres de l'organisation afin d'assurer la mise en oeuvre réussie des solutions de problèmes choisies.",
+      "Formuler des modèles mathématiques ou de simulation des problèmes, relier les constantes et les variables, les restrictions, les alternatives, les objectifs contradictoires et leurs paramètres numériques.",
+      "Observez le système actuel en fonctionnement, et recueillez et analysez de l'information sur chacun des problèmes des composantes, en utilisant diverses sources.",
+      "Analyser l'information obtenue de la direction pour conceptualiser et définir les problèmes opérationnels.",
+      "Étudier et analyser l'information sur d'autres mesures pour déterminer quel plan offrira les meilleurs résultats.",
+      "Collaborer avec les cadres supérieurs et les décideurs pour cerner et résoudre divers problèmes et clarifier les objectifs de gestion.",
+      "Préciser les méthodes de manipulation ou de calcul à appliquer aux modèles.",
+      "Conception, conduite et évaluation de modèles opérationnels expérimentaux dans les cas où les modèles ne peuvent pas être élaborés à partir des données existantes.",
+      "Élaborer et appliquer des réseaux de temps et de coûts pour planifier, contrôler et examiner les grands projets.",
+      "Diviser les systèmes en leurs composants, attribuer des valeurs numériques à chaque composant et examiner les relations mathématiques entre eux.",
+      "Sensibiliser le personnel à l'utilisation des modèles mathématiques.",
+      "Élaborer des méthodes et des procédures opérationnelles, y compris des systèmes comptables, des systèmes de fichiers, des systèmes de bureau, des systèmes logistiques et des calendriers de production.",
+      "Examiner la littérature de recherche."
     ],
     "skills": [
       "Esprit critique",
@@ -4043,37 +4672,37 @@
   {
     "id": "penetration-testers",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Penetration Testers",
+    "contentLanguage": "fr",
+    "title": "Testeurs de pénétration",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Evaluate network system security by conducting simulated internal and external cyberattacks using adversary tools and techniques.",
-    "detailedDescription": "Evaluate network system security by conducting simulated internal and external cyberattacks using adversary tools and techniques. Attempt to breach and exploit critical systems and gain access to sensitive information to assess system security.",
+    "shortDescription": "Évaluer la sécurité du réseau en effectuant des cyberattaques internes et externes simulées à l'aide d'outils et de techniques contradictoires.",
+    "detailedDescription": "Évaluer la sécurité du réseau en effectuant des cyberattaques internes et externes simulées à l'aide d'outils et de techniques contradictoires. Tentative de violation et d'exploitation des systèmes critiques et accès à des informations sensibles pour évaluer la sécurité du système.",
     "responsibilities": [
-      "Document penetration test findings.",
-      "Identify security system weaknesses, using penetration tests.",
-      "Write audit reports to communicate technical and procedural findings and recommend solutions.",
-      "Gather cyber intelligence to identify vulnerabilities.",
-      "Maintain up-to-date knowledge of hacking trends.",
-      "Keep up with new penetration testing tools and methods.",
-      "Identify new threat tactics, techniques, or procedures used by cyber threat actors.",
-      "Conduct network and security system audits, using established criteria.",
-      "Develop security penetration testing processes, such as wireless, data networks, and telecommunication security tests.",
-      "Test the security of systems by attempting to gain access to networks, Web-based applications, or computers.",
-      "Evaluate vulnerability assessments of local computing environments, networks, infrastructures, or enclave boundaries.",
-      "Prepare and submit reports describing the results of security fixes.",
-      "Develop and execute tests that simulate the techniques of known cyber threat actors.",
-      "Discuss security solutions with information technology teams or management.",
-      "Collect stakeholder data to evaluate risk and to develop mitigation strategies.",
-      "Update corporate policies to improve cyber security.",
-      "Assess the physical security of servers, systems, or network devices to identify vulnerability to temperature, vandalism, or natural disasters.",
-      "Investigate security incidents, using computer forensics, network forensics, root cause analysis, or malware analysis.",
-      "Develop infiltration tests that exploit device vulnerabilities.",
-      "Design security solutions to address known device vulnerabilities.",
-      "Configure information systems to incorporate principles of least functionality and least access.",
-      "Develop presentations on threat intelligence."
+      "Résultats des tests de pénétration des documents.",
+      "Identifier les faiblesses du système de sécurité en utilisant des tests de pénétration.",
+      "Rédiger des rapports de vérification pour communiquer les constatations techniques et procédurales et recommander des solutions.",
+      "Rassembler des renseignements cybernétiques pour identifier les vulnérabilités.",
+      "Maintenir une connaissance à jour des tendances du piratage.",
+      "Continuez avec de nouveaux outils et méthodes de test de pénétration.",
+      "Identifier les nouvelles tactiques, techniques ou procédures utilisées par les cybermenaces.",
+      "Effectuer des vérifications des réseaux et des systèmes de sécurité en utilisant les critères établis.",
+      "Développer des processus de tests de pénétration de la sécurité, comme les services sans fil, les réseaux de données et les tests de sécurité des télécommunications.",
+      "Tester la sécurité des systèmes en essayant d'accéder aux réseaux, aux applications Web ou aux ordinateurs.",
+      "Évaluer la vulnérabilité des environnements informatiques locaux, des réseaux, des infrastructures ou des limites de l'enclave.",
+      "Préparer et présenter des rapports décrivant les résultats des corrections de sécurité.",
+      "Élaborer et exécuter des tests qui simulent les techniques des acteurs connus de la cybermenace.",
+      "Discutez des solutions de sécurité avec les équipes de technologie de l'information ou la direction.",
+      "Recueillir des données sur les intervenants pour évaluer les risques et élaborer des stratégies d'atténuation.",
+      "Mettre à jour les politiques ministérielles pour améliorer la cybersécurité.",
+      "Évaluer la sécurité physique des serveurs, des systèmes ou des dispositifs réseau afin d'identifier la vulnérabilité à la température, au vandalisme ou aux catastrophes naturelles.",
+      "Enquêter sur les incidents de sécurité, en utilisant la criminalistique informatique, la criminalistique en réseau, l'analyse des causes profondes ou l'analyse des logiciels malveillants.",
+      "Élaborer des tests d'infiltration qui exploitent les vulnérabilités des appareils.",
+      "Concevoir des solutions de sécurité pour répondre aux vulnérabilités connues des appareils.",
+      "Configurer les systèmes d'information afin d'intégrer les principes du moins de fonctionnalité et du moins d'accès.",
+      "Élaborer des exposés sur les renseignements relatifs aux menaces."
     ],
     "skills": [
       "Esprit critique",
@@ -4156,32 +4785,32 @@
   {
     "id": "software-engineer",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Software Developers",
+    "contentLanguage": "fr",
+    "title": "Développeurs de logiciels",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Ce service utilise la classification ESCO de la Commission europeenne."
     ],
-    "shortDescription": "Research, design, and develop computer and network software or specialized utility programs.",
-    "detailedDescription": "Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities. May work with computer hardware engineers to integrate hardware and software systems, and develop specifications and performance requirements. May maintain databases within an application area, working individually or coordinating database development as part of a team.",
+    "shortDescription": "Recherche, conception et développement de logiciels informatiques et de réseaux ou de programmes d'utilité spécialisés.",
+    "detailedDescription": "Recherche, conception et développement de logiciels informatiques et de réseaux ou de programmes d'utilité spécialisés. Analyser les besoins des utilisateurs et développer des solutions logicielles, en appliquant des principes et des techniques d'informatique, d'ingénierie et d'analyse mathématique. Mettre à jour le logiciel ou améliorer les capacités du logiciel existant. Peut travailler avec les ingénieurs du matériel informatique pour intégrer le matériel et les systèmes logiciels, et élaborer des spécifications et des exigences de performance. Peut tenir des bases de données dans un domaine d'application, travailler individuellement ou coordonner le développement de bases de données dans le cadre d'une équipe.",
     "responsibilities": [
-      "Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.",
-      "Develop or direct software system testing or validation procedures, programming, or documentation.",
-      "Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",
-      "Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",
-      "Prepare reports or correspondence concerning project specifications, activities, or status.",
-      "Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",
-      "Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",
-      "Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",
-      "Determine system performance standards.",
-      "Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",
-      "Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.",
-      "Monitor functioning of equipment to ensure system operates in conformance with specifications.",
-      "Coordinate installation of software system.",
-      "Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",
-      "Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",
-      "Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",
-      "Train users to use new or modified equipment."
+      "Analyser les besoins des utilisateurs et les exigences des logiciels pour déterminer la faisabilité de la conception dans les délais et les coûts.",
+      "Élaborer ou diriger des procédures d'essai ou de validation du système logiciel, de programmation ou de documentation.",
+      "Conférencier les analystes de systèmes, les ingénieurs, les programmeurs et autres pour concevoir des systèmes et obtenir des informations sur les limitations et les capacités du projet, les exigences de performance et les interfaces.",
+      "Modifier les logiciels existants pour corriger les erreurs, les adapter au nouveau matériel ou mettre à niveau les interfaces et améliorer les performances.",
+      "Préparer des rapports ou de la correspondance concernant les spécifications, les activités ou l'état du projet.",
+      "Analyser l'information pour déterminer, recommander et planifier l'installation d'un nouveau système ou la modification d'un système existant.",
+      "Entreposez, récupérez et manipulez des données pour analyser les capacités et les besoins du système.",
+      "Concevoir, développer et modifier des systèmes logiciels en utilisant des analyses scientifiques et des modèles mathématiques pour prédire et mesurer les résultats et les conséquences de la conception.",
+      "Déterminer les normes de rendement du système.",
+      "Consulter les clients ou d'autres ministères sur l'état d'avancement du projet, les propositions ou les questions techniques, comme la conception ou la maintenance de systèmes logiciels.",
+      "Conférencier avec les gestionnaires de traitement de données ou de projets pour obtenir des informations sur les limitations ou les capacités des projets de traitement de données.",
+      "Surveiller le fonctionnement de l'équipement pour s'assurer que le système fonctionne conformément aux spécifications.",
+      "Coordonner l'installation du système logiciel.",
+      "Superviser le travail des programmeurs, des technologues et des techniciens ainsi que d'autres ingénieurs et scientifiques.",
+      "Superviser et assigner le travail aux programmeurs, concepteurs, technologues, techniciens ou autres ingénieurs ou scientifiques.",
+      "Obtenir et évaluer de l'information sur des facteurs tels que les formats de rapports requis, les coûts ou les besoins de sécurité pour déterminer la configuration du matériel.",
+      "Former les utilisateurs à utiliser des équipements neufs ou modifiés."
     ],
     "skills": [
       "Débogage et résolution de problèmes",
@@ -4266,45 +4895,45 @@
   {
     "id": "software-quality-assurance-analysts-and-testers",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Software Quality Assurance Analysts and Testers",
+    "contentLanguage": "fr",
+    "title": "Analystes et testeurs d'assurance de la qualité des logiciels",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Develop and execute software tests to identify software problems and their causes.",
-    "detailedDescription": "Develop and execute software tests to identify software problems and their causes. Test system modifications to prepare for implementation. Document software and application defects using a bug tracking system and report defects to software or web developers. Create and maintain databases of known defects. May participate in software design reviews to provide input on functional requirements, operational characteristics, product designs, and schedules.",
+    "shortDescription": "Élaborer et exécuter des tests logiciels pour identifier les problèmes logiciels et leurs causes.",
+    "detailedDescription": "Élaborer et exécuter des tests logiciels pour identifier les problèmes logiciels et leurs causes. Modifications du système d'essai pour se préparer à la mise en œuvre. Documenter les défauts des logiciels et des applications en utilisant un système de suivi des bogues et signaler les défauts aux développeurs de logiciels ou de sites Web. Créer et gérer des bases de données sur les défauts connus. Peut participer à des examens de conception de logiciels pour fournir des commentaires sur les exigences fonctionnelles, les caractéristiques opérationnelles, les conceptions de produits et les calendriers.",
     "responsibilities": [
-      "Identify, analyze, and document problems with program function, output, online screen, or content.",
-      "Document software defects, using a bug tracking system, and report defects to software developers.",
-      "Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",
-      "Design test plans, scenarios, scripts, or procedures.",
-      "Document test procedures to ensure replicability and compliance with standards.",
-      "Provide feedback and recommendations to developers on software usability and functionality.",
-      "Install, maintain, or use software testing programs.",
-      "Test system modifications to prepare for implementation.",
-      "Create or maintain databases of known test defects.",
-      "Develop or specify standards, methods, or procedures to determine product quality or release readiness.",
-      "Monitor bug resolution efforts and track successes.",
-      "Update automated test scripts to ensure currency.",
-      "Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",
-      "Plan test schedules or strategies in accordance with project scope or delivery dates.",
-      "Monitor program performance to ensure efficient and problem-free operations.",
-      "Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",
-      "Investigate customer problems referred by technical support.",
-      "Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",
-      "Identify program deviance from standards, and suggest modifications to ensure compliance.",
-      "Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",
-      "Design or develop automated testing tools.",
-      "Install and configure recreations of software production environments to allow testing of software performance.",
-      "Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.",
-      "Coordinate user or third-party testing.",
-      "Visit beta testing sites to evaluate software performance.",
-      "Conduct historical analyses of test results.",
-      "Evaluate or recommend software for testing or bug tracking.",
-      "Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",
-      "Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",
-      "Store, retrieve, and manipulate data for analysis of system capabilities and requirements."
+      "Identifier, analyser et documenter les problèmes liés à la fonction, à la sortie, à l'écran en ligne ou au contenu du programme.",
+      "Documenter les défauts du logiciel, en utilisant un système de suivi des bogues, et signaler les défauts aux développeurs de logiciels.",
+      "Élaborer des programmes d'essai qui traitent de domaines tels que les impacts des bases de données, les scénarios logiciels, les tests de régression, les tests négatifs, les tests d'erreur ou de bug, ou encore la facilité d'utilisation.",
+      "Concevoir des plans de test, des scénarios, des scripts ou des procédures.",
+      "Documenter les procédures d'essai pour assurer la reproductibilité et la conformité aux normes.",
+      "Fournir des commentaires et des recommandations aux développeurs sur la convivialité et la fonctionnalité des logiciels.",
+      "Installez, maintenez ou utilisez des programmes de tests logiciels.",
+      "Modifications du système d'essai pour se préparer à la mise en œuvre.",
+      "Créer ou tenir à jour des bases de données sur les défauts d'essai connus.",
+      "Élaborer ou préciser des normes, des méthodes ou des procédures pour déterminer la qualité du produit ou l'état de préparation au rejet.",
+      "Surveiller les efforts de résolution des bogues et suivre les succès.",
+      "Mettre à jour les scripts de test automatisés pour assurer la monnaie.",
+      "Participer aux examens de la conception des produits pour fournir des commentaires sur les exigences fonctionnelles, la conception des produits, les calendriers ou les problèmes potentiels.",
+      "Planifier les calendriers ou les stratégies d'essai conformément à la portée du projet ou aux dates d'exécution.",
+      "Surveiller le rendement du programme pour assurer des opérations efficaces et sans problème.",
+      "Effectuer des tests de compatibilité logicielle avec les programmes, le matériel, les systèmes d'exploitation ou les environnements réseau.",
+      "Enquêter sur les problèmes des clients évoqués par le support technique.",
+      "Examiner la documentation du logiciel pour assurer l'exactitude technique, la conformité ou l'exhaustivité, ou pour atténuer les risques.",
+      "Déterminer la déviation du programme par rapport aux normes et proposer des modifications pour assurer la conformité.",
+      "Effectuer les procédures initiales de débogage en examinant les fichiers de configuration, les journaux ou les pièces de code pour déterminer la source de ventilation.",
+      "Concevoir ou développer des outils de test automatisés.",
+      "Installer et configurer les loisirs des environnements de production de logiciels pour permettre de tester les performances du logiciel.",
+      "Collaborer avec le personnel de terrain ou les clients pour évaluer ou diagnostiquer les problèmes et recommander des solutions possibles.",
+      "Coordonner les tests utilisateur ou tiers.",
+      "Visitez les sites de tests bêta pour évaluer les performances du logiciel.",
+      "Effectuer des analyses historiques des résultats des essais.",
+      "Évaluer ou recommander un logiciel pour tester ou suivre les bogues.",
+      "Modifier les logiciels existants pour corriger les erreurs, lui permettre de s'adapter au nouveau matériel ou améliorer ses performances.",
+      "Recommander l'achat d'équipement pour contrôler la poussière, la température ou l'humidité dans la zone d'installation du système.",
+      "Entreposez, récupérez et manipulez des données pour analyser les capacités et les besoins du système."
     ],
     "skills": [
       "Esprit critique",
@@ -4386,34 +5015,34 @@
   {
     "id": "statisticians",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Statisticians",
+    "contentLanguage": "fr",
+    "title": "Statistique",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information.",
-    "detailedDescription": "Develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information. May specialize in fields such as biostatistics, agricultural statistics, business statistics, or economic statistics. Includes mathematical and survey statisticians.",
+    "shortDescription": "Élaborer ou appliquer une théorie mathématique ou statistique et des méthodes pour recueillir, organiser, interpréter et résumer des données numériques afin de fournir des renseignements utilisables.",
+    "detailedDescription": "Élaborer ou appliquer une théorie mathématique ou statistique et des méthodes pour recueillir, organiser, interpréter et résumer des données numériques afin de fournir des renseignements utilisables. Peut se spécialiser dans des domaines tels que la biostatistique, les statistiques agricoles, les statistiques des entreprises ou les statistiques économiques. Comprend les statisticiens des mathématiques et des enquêtes.",
     "responsibilities": [
-      "Analyze and interpret statistical data to identify significant differences in relationships among sources of information.",
-      "Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",
-      "Report results of statistical analyses, including information in the form of graphs, charts, and tables.",
-      "Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",
-      "Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",
-      "Develop and test experimental designs, sampling techniques, and analytical methods.",
-      "Identify relationships and trends in data, as well as any factors that could affect the results of research.",
-      "Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",
-      "Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",
-      "Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",
-      "Evaluate sources of information to determine any limitations, in terms of reliability or usability.",
-      "Process large amounts of data for statistical modeling and graphic analysis, using computers.",
-      "Develop software applications or programming for statistical modeling and graphic analysis.",
-      "Report results of statistical analyses in peer-reviewed papers and technical manuals.",
-      "Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",
-      "Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.",
-      "Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",
-      "Supervise and provide instructions for workers collecting and tabulating data.",
-      "Prepare and structure data warehouses for storing data."
+      "Analyser et interpréter les données statistiques afin d'identifier les différences importantes dans les relations entre les sources d'information.",
+      "Évaluer les méthodes et procédures statistiques utilisées pour obtenir des données afin d'assurer leur validité, leur applicabilité, leur efficacité et leur exactitude.",
+      "Rendre compte des résultats des analyses statistiques, y compris de l'information sous forme de graphiques, de graphiques et de tableaux.",
+      "Déterminer si les méthodes statistiques sont appropriées, en fonction des besoins des utilisateurs ou des questions de recherche d'intérêt.",
+      "Préparer les données à traiter en organisant l'information, en vérifiant les inexactitudes et en adaptant et pondérant les données brutes.",
+      "Élaborer et tester des plans expérimentaux, des techniques d'échantillonnage et des méthodes d'analyse.",
+      "Déterminer les relations et les tendances des données, ainsi que tous les facteurs qui pourraient influer sur les résultats de la recherche.",
+      "Présenter des résultats statistiques et non statistiques, à l'aide de graphiques, de puces et de graphiques, lors de réunions ou de conférences, à des auditoires comme les clients, les pairs et les étudiants.",
+      "Concevoir des projets de recherche qui appliquent des techniques scientifiques valides et utiliser les informations obtenues à partir de données de référence ou de données historiques pour structurer des analyses non compromises et efficaces.",
+      "Adapter les méthodes statistiques pour résoudre des problèmes spécifiques dans de nombreux domaines, comme l'économie, la biologie et l'ingénierie.",
+      "Évaluer les sources d'information pour déterminer les limites, en termes de fiabilité ou de facilité d'utilisation.",
+      "Traiter de grandes quantités de données pour la modélisation statistique et l'analyse graphique à l'aide d'ordinateurs.",
+      "Développer des applications logicielles ou des programmes de modélisation statistique et d'analyse graphique.",
+      "Rendre compte des résultats des analyses statistiques dans des documents et des manuels techniques examinés par les pairs.",
+      "Planifier les méthodes de collecte de données pour des projets particuliers et déterminer les types et la taille des groupes d'échantillons à utiliser.",
+      "Appliquer des techniques d'échantillonnage ou utiliser des bases de dénombrement complètes pour déterminer et définir les groupes à examiner.",
+      "Examiner les théories, comme celles de la probabilité et de l'inférence, pour découvrir les bases mathématiques des méthodes nouvelles ou améliorées d'obtention et d'évaluation des données numériques.",
+      "Superviser et donner des instructions aux travailleurs qui recueillent et compilent des données.",
+      "Préparer et structurer les entrepôts de données pour le stockage des données."
     ],
     "skills": [
       "Esprit critique",
@@ -4496,41 +5125,41 @@
   {
     "id": "telecommunications-engineering-specialists",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Telecommunications Engineering Specialists",
+    "contentLanguage": "fr",
+    "title": "Spécialistes en génie des télécommunications",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Design or configure wired, wireless, and satellite communications systems for voice, video, and data services.",
-    "detailedDescription": "Design or configure wired, wireless, and satellite communications systems for voice, video, and data services. Supervise installation, service, and maintenance.",
+    "shortDescription": "Concevoir ou configurer des systèmes de communications câblées, sans fil et par satellite pour les services de voix, de vidéo et de données.",
+    "detailedDescription": "Concevoir ou configurer des systèmes de communications câblées, sans fil et par satellite pour les services de voix, de vidéo et de données. Superviser l'installation, le service et la maintenance.",
     "responsibilities": [
-      "Document technical specifications and operating standards for telecommunications equipment.",
-      "Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.",
-      "Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",
-      "Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",
-      "Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",
-      "Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",
-      "Estimate costs for system or component implementation and operation.",
-      "Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.",
-      "Review and evaluate requests from engineers, managers, and technicians for system modifications.",
-      "Implement or perform preventive maintenance, backup, or recovery procedures.",
-      "Inspect sites to determine physical configuration, such as device locations and conduit pathways.",
-      "Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",
-      "Document procedures for hardware and software installation and use.",
-      "Supervise maintenance of telecommunications equipment.",
-      "Instruct in use of voice, video, and data communications systems.",
-      "Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.",
-      "Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",
-      "Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",
-      "Assess existing facilities' needs for new or modified telecommunications systems.",
-      "Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.",
-      "Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.",
-      "Prepare system activity and performance reports.",
-      "Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.",
-      "Implement controls to provide security for operating systems, software, and data.",
-      "Monitor and analyze system performance, such as network traffic, security, and capacity.",
-      "Manage user access to systems and equipment through account management and password administration."
+      "Documenter les spécifications techniques et les normes d'exploitation du matériel de télécommunications.",
+      "Fournir un soutien aux utilisateurs en diagnosticant les problèmes de réseau et d'appareil et en mettant en œuvre des solutions techniques ou procédurales.",
+      "Mettre en oeuvre des projets de rénovation du système en collaboration avec le personnel technique, les consultants en génie, les installateurs et les fournisseurs.",
+      "Tenez-vous au courant de l'évolution des pratiques de l'industrie et des nouvelles technologies de télécommunication en examinant la littérature actuelle, en parlant avec des collègues, en participant à des programmes éducatifs, en assistant à des réunions ou à des ateliers ou en participant à des organisations ou conférences professionnelles.",
+      "Utilisez un logiciel de conception assistée par ordinateur (CAD) pour préparer ou évaluer des diagrammes de réseau, des plans d'étage ou des configurations de site pour des installations, des rénovations ou de nouveaux systèmes existants.",
+      "Élaborer, maintenir ou mettre en oeuvre des plans de reprise après sinistre des télécommunications pour assurer la continuité des activités.",
+      "Estimation des coûts de mise en œuvre et de fonctionnement du système ou des composantes.",
+      "Installer ou coordonner l'installation de modules nouveaux ou modifiés de matériel, de logiciels ou de programmation de systèmes de télécommunications.",
+      "Examiner et évaluer les demandes de modifications du système des ingénieurs, des gestionnaires et des techniciens.",
+      "Mettre en oeuvre ou exécuter des procédures d'entretien préventif, de sauvegarde ou de récupération.",
+      "Inspecter les sites pour déterminer la configuration physique, comme les emplacements des appareils et les voies de conduit.",
+      "Communiquer avec les fournisseurs de télécommunications pour obtenir les prix et les spécifications techniques du matériel, des logiciels ou des services disponibles.",
+      "Documenter les procédures d'installation et d'utilisation du matériel et des logiciels.",
+      "Superviser l'entretien du matériel de télécommunications.",
+      "Instruisez l'utilisation des systèmes de communication vocale, vidéo et de données.",
+      "Travailler avec le personnel et le personnel de gestion des installations pour installer, enlever ou déplacer des appareils et des appareils de connectivité des utilisateurs.",
+      "Consulter les utilisateurs, les administrateurs et les ingénieurs pour déterminer les exigences opérationnelles et techniques pour les modifications de système ou les achats de technologie proposés.",
+      "Tester et évaluer le matériel et les logiciels pour déterminer l'efficacité, la fiabilité ou la compatibilité avec les systèmes existants.",
+      "Évaluer les besoins des installations existantes en systèmes de télécommunication nouveaux ou modifiés.",
+      "Documenter les activités de soutien aux utilisateurs, comme les problèmes de système, les mesures correctives, l'état de résolution et les installations d'équipement terminées.",
+      "Commander ou tenir à jour l'inventaire de l'équipement de télécommunications pour l'équipement des locaux à la clientèle, les installations, les réseaux d'accès ou les réseaux de base.",
+      "Préparer des rapports sur les activités et le rendement du système.",
+      "Préparer les demandes d'achat de matériel et de logiciels informatiques, de matériel de réseautage et de télécommunications, de matériel d'essai, de câblage ou d'outils.",
+      "Mettre en place des contrôles pour assurer la sécurité des systèmes d'exploitation, des logiciels et des données.",
+      "Surveiller et analyser les performances du système, comme le trafic réseau, la sécurité et la capacité.",
+      "Gérer l'accès des utilisateurs aux systèmes et au matériel grâce à la gestion des comptes et à l'administration des mots de passe."
     ],
     "skills": [
       "Esprit critique",
@@ -4612,39 +5241,39 @@
   {
     "id": "video-game-designers",
     "domain": "technology",
-    "contentLanguage": "en",
-    "title": "Video Game Designers",
+    "contentLanguage": "fr",
+    "title": "Designers de jeux vidéo",
     "attribution": [
       "Contient des informations issues de la base de donnees O*NET 31.0 du U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), utilisees sous licence CC BY 4.0. O*NET(R) est une marque de USDOL/ETA. CareerMatch a modifie tout ou partie de ces informations ; USDOL/ETA n'a ni approuve, ni valide, ni teste ces modifications.",
       "Source : U.S. Bureau of Labor Statistics."
     ],
-    "shortDescription": "Design core features of video games.",
-    "detailedDescription": "Design core features of video games. Specify innovative game and role-play mechanics, story lines, and character biographies. Create and maintain design documentation. Guide and collaborate with production staff to produce games as designed.",
+    "shortDescription": "Concevoir les caractéristiques essentielles des jeux vidéo.",
+    "detailedDescription": "Concevoir les caractéristiques essentielles des jeux vidéo. Spécifiez la mécanique innovante du jeu de rôle, les lignes d'histoire et les biographies de personnages. Créez et maintenez la documentation de conception. Guider et collaborer avec le personnel de production pour produire des jeux tels que conçus.",
     "responsibilities": [
-      "Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.",
-      "Devise missions, challenges, or puzzles to be encountered in game play.",
-      "Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",
-      "Solicit, obtain, and integrate feedback from design and technical staff into original game design.",
-      "Conduct regular design reviews throughout the game development process.",
-      "Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",
-      "Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",
-      "Provide feedback to designers and other colleagues regarding game design features.",
-      "Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",
-      "Provide feedback to production staff regarding technical game qualities or adherence to original design.",
-      "Create gameplay prototypes for presentation to creative and technical staff and management.",
-      "Guide design discussions between development teams.",
-      "Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.",
-      "Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",
-      "Prepare two-dimensional concept layouts or three-dimensional mock-ups.",
-      "Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",
-      "Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",
-      "Collaborate with artists to achieve appropriate visual style.",
-      "Write or supervise the writing of game text and dialogue.",
-      "Consult with multiple stakeholders to define requirements and implement online features.",
-      "Determine supplementary virtual features, such as currency, item catalog, menu design, and audio direction.",
-      "Prepare and revise initial game sketches using two- and three-dimensional graphical design software.",
-      "Create gameplay test plans for internal and external test groups.",
-      "Provide test specifications to quality assurance staff."
+      "Équilibrez et ajustez les expériences de gameplay pour assurer le succès critique et commercial du produit.",
+      "Concevoir des missions, des défis ou des énigmes à rencontrer dans le jeu.",
+      "Créer des fonctionnalités de jeu de base, y compris des histoires, des mécanismes de jeu de rôle et des biographies de personnages pour une nouvelle franchise de jeu vidéo ou de jeu.",
+      "Solliciter, obtenir et intégrer la rétroaction de la conception et du personnel technique dans la conception originale du jeu.",
+      "Effectuer régulièrement des examens de conception tout au long du processus de développement du jeu.",
+      "Élaborer et tenir à jour la documentation sur le niveau de conception, y compris la mécanique, les lignes directrices et les grandes lignes de la mission.",
+      "Documentez tous les aspects de la conception formelle du jeu, en utilisant des captures d'écran simulées, des exemples de plans de menu, des diagrammes de flux de gameplay et d'autres appareils graphiques.",
+      "Fournir des commentaires aux concepteurs et autres collègues concernant les caractéristiques de conception de jeu.",
+      "Créer et gérer la documentation, les calendriers de production, les objectifs de prototypage et les plans de communication en collaboration avec le personnel de production.",
+      "Fournir des commentaires au personnel de production concernant les qualités techniques du jeu ou le respect de la conception originale.",
+      "Créez des prototypes de gameplay pour la présentation au personnel créatif et technique et à la direction.",
+      "Guider les discussions de conception entre les équipes de développement.",
+      "Superviser les tests de gameplay pour assurer l'expérience de jeu prévue et l'adhésion de jeu à la vision originale.",
+      "Présenter de nouveaux concepts de conception de jeux à des collègues de gestion et de technique, y compris des artistes, des animateurs et des programmeurs.",
+      "Préparer des schémas de conception bidimensionnels ou des maquettes tridimensionnelles.",
+      "Tenez-vous au courant de la technologie et des techniques de conception de jeux, des tendances de l'industrie ou des intérêts, des réactions et des besoins du public en examinant la littérature actuelle, en parlant avec des collègues, en participant à des programmes éducatifs, en assistant à des réunions ou à des ateliers ou en participant à des organisations ou conférences professionnelles.",
+      "Examiner ou évaluer des produits concurrentiels, des films, de la musique, de la télévision et d'autres formes d'art pour générer de nouvelles idées de conception de jeux.",
+      "Collaborer avec les artistes pour obtenir un style visuel approprié.",
+      "Écrire ou superviser l'écriture de texte de jeu et le dialogue.",
+      "Consulter plusieurs intervenants pour définir les exigences et mettre en oeuvre des fonctionnalités en ligne.",
+      "Déterminez les fonctions virtuelles supplémentaires, comme la monnaie, le catalogue d'articles, la conception de menus et la direction audio.",
+      "Préparer et réviser les esquisses de jeu initiales en utilisant un logiciel de conception graphique à deux et trois dimensions.",
+      "Créer des plans de test de gameplay pour les groupes de test internes et externes.",
+      "Fournir des spécifications d'essai au personnel d'assurance de la qualité."
     ],
     "skills": [
       "Programmation",
