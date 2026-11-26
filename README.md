@@ -8,7 +8,7 @@ Contenu :
 - `catalog/v1/manifest.json` : version, generated_at, count, sha256
 - `ATTRIBUTION.md` : attribution des sources declarees par les fiches
 
-Derniere publication : version 9, 50 carrieres, genere le 2026-11-25T16:05:10.630Z.
+Derniere publication : version 10, 55 carrieres, genere le 2026-11-26T18:19:10.615Z.
 
 Verification : le sha256 des octets UTF-8 de `careers.json` doit egaler le
 champ `sha256` du manifeste. Une baisse de plus de 30 % du nombre de
